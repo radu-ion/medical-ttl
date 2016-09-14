@@ -10,27 +10,25 @@ use Term::ReadLine;
 sub readLexicon( $ );
 sub saveLexicon( $$ );
 sub spellCheckSentence( $ );
-sub countLines( $ );
 
 # TBL is the Romanian lexicon, word TAB lemma TAB MSD format.
 # Column corpus is the corpus with lemmas and POS tags, word TAB lemma TAB MSD format (one new line between sentences).
 # Word list are new words word TAB lemma TAB MSD format, to be added to TBL.
 # Everything is UTF-8, except the TBL.
 
-################ Config section ####################################
-my( $TBLFILE ) = "/home/rion/ttlrun/res/ro/tbl.wordform.ro.v81";
-my( $CORPUSFILE ) = "medical-ttl/medical-selected-train.txt";
-my( $OUTCORPUSFILE ) = $CORPUSFILE . ".spc";
-my( $ADDTBLFILE ) = "new-tbl.txt";
-my( $OUTADDTBLFILE ) = $ADDTBLFILE . ".sav";
-################ End config section ################################
-
-if ( -e $OUTADDTBLFILE ) {
-	$ADDTBLFILE = $OUTADDTBLFILE;
+if ( scalar( @ARGV ) != 1 ) {
+	die( "spellcheck.pl medical-selected-[train|test].txt" );
 }
 
 binmode( STDOUT, ":utf8" );
 
+################ Config section ####################################
+# Set your path correctly to this file!!
+my( $TBLFILE ) = "/home/rion/ttlrun/res/ro/tbl.wordform.ro.v81";
+my( $ADDTBLFILE ) = "tbl.wordform.ro.medical";
+################ End config section ################################
+
+my( $CORPUSFILE ) = $ARGV[0];
 my( $cygterm ) = new Term::ReadLine( 'spellcheck' );
 
 $cygterm->enableUTF8();
@@ -40,27 +38,24 @@ my( %ROEXTBL ) = readLexicon( $ADDTBLFILE );
 
 open( COR, "<", $CORPUSFILE ) or die( "spellcheck::main: cannot open corpus file '$CORPUSFILE' !\n" );
 binmode( COR, ":utf8" );
-
-my( $outclines ) = countLines( $OUTCORPUSFILE );
-
-open( COROUT, ">>", $OUTCORPUSFILE ) or die( "spellcheck::main: cannot open out corpus file '$OUTCORPUSFILE' !\n" );
+open( COROUT, ">", $CORPUSFILE . ".sav" ) or die( "spellcheck::main: cannot open out corpus file '${CORPUSFILE}.sav' !\n" );
 binmode( COROUT, ":utf8" );
 
 my( @currentsent ) = ();
-my( $lCount ) = 0;
+my( $sessionended ) = 0;
 
 while ( my $line = <COR> ) {
-	$lCount++;
-	
-	next if ( $lCount <= $outclines && $outclines > 0 );
-	
 	$line =~ s/^\s+//;
 	$line =~ s/\s+$//;
 	
 	if ( $line eq "" ) {
-		# Interactive ...
-		if ( !spellCheckSentence( \@currentsent ) ) {
-			last;
+		if ( ! $sessionended ) {
+			# Interactive ...
+			my( $endflag ) = spellCheckSentence( \@currentsent );
+					
+			if ( $endflag ) {
+				$sessionended = 1;
+			}
 		}
 		
 		foreach my $w ( @currentsent ) {
@@ -80,8 +75,10 @@ while ( my $line = <COR> ) {
 close( COR );
 close( COROUT );
 
+qx/mv -fv ${CORPUSFILE}.sav $CORPUSFILE/;
+
 #Save TBL Extra
-saveLexicon( \%ROEXTBL, $OUTADDTBLFILE );
+saveLexicon( \%ROEXTBL, $ADDTBLFILE );
 
 ############# End main.
 
@@ -211,7 +208,7 @@ sub spellCheckSentence( $ ) {
 				$opt = <STDIN>;
 			}
 			
-			return 0 if ( $opt =~ /^quit$/i );
+			return 1 if ( $opt =~ /^quit$/i );
 			
 			if ( $opt == 0 ) {
 				my $wf = $cygterm->readline( "Form:", $t->[0] );
@@ -262,7 +259,7 @@ sub spellCheckSentence( $ ) {
 		} # end if unknown word
 	} # end all sentence
 	
-	return 1;
+	return 0;
 }
 
 sub saveLexicon( $$ ) {
@@ -343,23 +340,4 @@ sub readLexicon( $ ) {
 	
 	close( LEX );
 	return %lexicon;
-}
-
-sub countLines( $ ) {
-	if ( -e $_[0] ) {
-		open( CR, "<", $_[0] ) or die( "spellcheck::countLines: cannot open file '$_[0]' !\n" );
-		binmode( CR, ":utf8" );
-		
-		my $lcnt = 0;
-		
-		while ( my $line = <CR> ) {
-			$lcnt++;
-		}
-		
-		close( CR );
-		return $lcnt;
-	}
-	else {
-		return 0;
-	}
 }
