@@ -16,7 +16,7 @@
      56 chiști	(0.56)chist	Ncmp-n
      55 nediabetici	(0.89)nediabetic	Afpmp-n
      54 colesteatomului	(0.71)colesteatom	Ncmsoy
-     53 markeri	(0.56)marke	Ncmp-n
+     53 markeri	(0.56)marker	Ncmp-n
      53 dismetabolic	(WF)dismetabolic	Afpms-n
      51 paranazale	(0.89)paranazal	Afpfp-n
      51 apoptozei	(0.71)apoptoză	Ncfsoy
