@@ -185,10 +185,12 @@ sub spellCheckSentence( $ ) {
 			print( "SUGGESTIONS:\n" );
 			my( @suggestions ) = ();
 			
-			$t->[1] =~ s/^\(.+?\)//;
+			my( $tlemma ) = $t->[1];
+			
+			$tlemma =~ s/^\(.+?\)//;
 			
 			push( @suggestions, [ "EDIT" ] );
-			push( @suggestions, [ $t->[0], $t->[1], $t->[2] ] );
+			push( @suggestions, [ $t->[0], $tlemma, $t->[2] ] );
 			
 			if ( scalar( @possiblecorrections ) > 0 ) {
 				foreach my $pc ( @possiblecorrections ) {
