@@ -1342,6 +1342,7 @@ ductală	ductal	Afpfsrn
 ducto-enterice	ducto-enteric	Afpfson
 ducturilor	duct	Ncfpoy
 dureros-nedureros	dureros-nedureros	Afpms-n
+ecocardiografic	ecocardiografic	Afpms-n
 ecocardiografice	ecocardiografic	Afpfp-n
 ecocardiografică	ecocardiografic	Afpfsrn
 ecogenitate	ecogenitate	Ncfsrn
@@ -1587,13 +1588,16 @@ fasceită	fasceită	Ncfsrn
 fasciculară	fascicular	Afpfp-n
 fasciculo-reticulate	fasciculo-reticulat	Afpfp-n
 fasciectomia	fasciectomie	Ncfsry
+fibroelastică	fibroelastic	Afpfsrn
 făcându	face	Vmg-------y
 hipolipemiante	hipolipemiant	Afpfson
 homocisteina	homocisteină	Ncfsvy
 interleukina	interleukină	Afpfsry
+intimale	intimal	Afpfson
 lipidici	lipidic	Afpmp-n
 markerilor	marker	Ncmpoy
 morbi-mortalitatea	morbi-mortalitate	Ncfsry
+necroptic	necroptic	Afpms-n
 neinvazivă	neinvaziv	Afpfsrn
 non-invaziv	non-invaziv	Afpms-n
 non-optim	non-optim	Afpms-n
@@ -1604,8 +1608,11 @@ roțatională	(0.89)roțational	Afpfsrn
 speckle	speckle	Nc
 subendocardice	subendocardic	Afpfson
 subendocardică	subendocardic	Afpfsrn
+subepicardice	subepicardic	Afpfson
+subvalvular	subvalvular	Afpms-n
 telediastolic	telediastolic	Afpms-n
 telesistolic	telesistolic	Afpms-n
 transmitral	transmitral	Afpms-n
+transvalvular	transvalvular	Afpms-n
 troponina	troponină	Ncfsry
 ventilatorie	ventilatoriu	Afpfsrn
