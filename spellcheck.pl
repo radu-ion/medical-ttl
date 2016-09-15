@@ -24,7 +24,7 @@ binmode( STDOUT, ":utf8" );
 
 ################ Config section ####################################
 # Set your path correctly to this file!!
-my( $TBLFILE ) = "/home/rion/ttlrun/res/ro/tbl.wordform.ro.v81";
+my( $TBLFILE ) = "../tbl.wordform.ro.v81";
 my( $ADDTBLFILE ) = "tbl.wordform.ro.medical";
 ################ End config section ################################
 
