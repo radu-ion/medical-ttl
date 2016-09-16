@@ -1983,7 +1983,7 @@ figura	figură	Ncfsry
 .	.	PERIOD
 
 EuroSCORE	EuroSCORE	Np
-additive	additive	????
+additive	additive	X
 cuantifică	cuantifica	Vmis3s
 17	17	Mc
 variabile	variabilă	Ncfp-n
@@ -2473,7 +2473,7 @@ obstrucție	obstrucție	Ncfsrn
 (	(	LPAR
 bypass	bypass	Ncms-n
 ,	,	COMMA
-pontage	pontage	???
+pontage	pontage	X
 ,	,	COMMA
 punte	punte	Ncfsrn
 )	)	RPAR
@@ -3559,8 +3559,8 @@ chirurgia	chirurgie	Ncfsry
 precoce	precoce	Afp
 versus	versus	Np
 atitudinea	atitudine	Ncfsry
-watchful	watchful	???
-wait	wait	Np
+watchful	watchful	X
+wait	wait	X
 .	.	PERIOD
 
 În	în	Spsa
@@ -3631,7 +3631,7 @@ rotunde	rotund	Afpfp-n
 infiltrate	infiltrat	Afpfp-n
 multiple	multiplu	Ncfp-n
 care	care	Pw3--r
-cavitează	(0.79)cavita	Vmip3
+cavitează	cavita	Vmip3
 sau	sau	Ccssp
 pleurezii	pleurezie	Ncfp-n
 purulente	purulent	Afpfp-n
@@ -3689,7 +3689,7 @@ afectată	afecta	Vmp--sf
 în	în	Spsa
 urma	urmă	Ncfsry
 circulației	circulație	Ncfsoy
-extracorporeale	(0.75)extracorporeal	Afpfson
+extracorporeale	extracorporal	Afpfson
 ceea	acela	Pd3fsr
 ce	ce	Pw3--r
 ,	,	COMMA
@@ -3715,7 +3715,7 @@ renală	renal	Afpfsrn
 Marginea	margine	Ncfsry
 fixă	fix	Afpfsrn
 a	al	Tsfs
-cuspelor	(0.54)cuspe	Ncfpoy
+cuspelor	cuspă	Ncfpoy
 este	fi	Vmip3s
 aderentă	aderent	Afpfsrn
 de	de	Spsa
@@ -3739,9 +3739,9 @@ peretele	perete	Ncmsry
 rădăcinii	rădăcină	Ncfsoy
 aortei	aortă	Ncfsoy
 ,	,	COMMA
-proemină	(0.82)proemina	Vmis3s
+proemină	proemina	Vmis3s
 creasta	creastă	Ncfsry
-sinotubulară	(0.89)sinotubular	Afpfsrn
+sinotubulară	sinotubular	Afpfsrn
 care	care	Pw3--r
 reprezintă	reprezenta	Vmip3
 joncțiunea	joncțiune	Ncfsry
@@ -3769,10 +3769,10 @@ servicii	serviciu	Ncfp-n
 dotate	dota	Vmp--pf
 cu	cu	Spsa
 unități	unitate	Ncfp-n
-intervenționale	(0.89)intervențional	Afpfp-n
+intervenționale	intervențional	Afpfp-n
 hibride	hibrid	Afpfp-n
 (	(	LPAR
-radio-chirurgicale	(0.89)radio-chirurgical	Afpfp-n
+radio-chirurgicale	radio-chirurgical	Afpfp-n
 )	)	RPAR
 .	.	PERIOD
 
@@ -3797,7 +3797,7 @@ este	fi	Vaip3s
 contraindicată	contraindica	Vmp--sf
 din	din	Spsa
 cauza	cauză	Ncfsry
-comorbidităților	(0.54)comorbiditate	Ncfpoy
+comorbidităților	comorbiditate	Ncfpoy
 severe	sever	Afpfp-n
 .	.	PERIOD
 
@@ -3817,7 +3817,7 @@ plianței	plianței	Np
 ,	,	COMMA
 creșterea	creștere	Ncfsry
 presiunii	presiune	Ncfsoy
-telediastolice	(0.75)telediastolic	Afpfson
+telediastolice	telediastolic	Afpfson
 în	în	Spsa
 VS	VS	Np
 ,	,	COMMA
@@ -3846,7 +3846,7 @@ doar	doar	Rgp
 măsuri	măsură	Ncfp-n
 generale	general	Afpfp-n
 ,	,	COMMA
-igieno	(0.85)igienă	Ncfsvy
+igieno	igienă	Ncfsvn
 dietetice	dietetic	Afpfp-n
 ,	,	COMMA
 de	de	Spsa
@@ -3898,7 +3898,7 @@ procedeu	procedeu	Ncms-n
 Ross	Ross	Np
 sau	sau	Ccssp
 homogrefă	homogrefă	Ncfsrn
-crioprezervată	(0.89)crioprezervat	Afpfsrn
+crioprezervată	crioprezervat	Afpfsrn
 )	)	RPAR
 .	.	PERIOD
 
@@ -3924,7 +3924,7 @@ postoperator	postoperator	Ncms-n
 în	în	Spsa
 condițiile	condiție	Ncfpry
 prezenței	prezență	Ncfsoy
-comorbidităților	(0.54)comorbiditate	Ncfpoy
+comorbidităților	comorbiditate	Ncfpoy
 .	.	PERIOD
 
 Apariția	apariție	Ncfsry
@@ -3965,7 +3965,7 @@ degenerativ	degenerativ	Afpms-n
 ce	ce	Pw3--r
 alterează	altera	Vmip3
 coaptarea	coaptare	Ncfsry
-cuspelor	(0.54)cuspe	Ncfpoy
+cuspelor	cuspă	Ncfpoy
 mitrale	mitral	Afpfp-n
 .	.	PERIOD
 
@@ -4010,7 +4010,7 @@ asimptomatici	asimptomatic	Afpmp-n
 precum	precum	Rw
 și	și	Crssp
 de	de	Spsa
-repercursiunile	(0.67)repercursiune	Ncfpry
+repercursiunile	repercusiune	Ncfpry
 asupra	asupra	Spsg
 funcției	funcție	Ncfsoy
 VS	VS	Np
@@ -4059,7 +4059,7 @@ cordajelor	cordaj	Ncfpoy
 artificiale	artificial	Afpfp-n
 cu	cu	Spsa
 sutură	sutură	Ncfsrn
-termino-terminală	(0.89)termino-terminal	Afpfsrn
+termino-terminală	termino-terminal	Afpfsrn
 .	.	PERIOD
 
 În	în	Spsa
@@ -4102,7 +4102,7 @@ Valvele	valvă	Ncfpry
 mecanice	mecanic	Afpfp-n
 în	în	Spsa
 poziție	poziție	Ncfsrn
-tricuspidiană	(0.89)tricuspidian	Afpfsrn
+tricuspidiană	tricuspidian	Afpfsrn
 se	sine	Px3--a--------w
 evită	evita	Vmis3s
 pe	pe	Spsa
@@ -4127,7 +4127,7 @@ reumatismală	reumatismal	Afpfsrn
 se	sine	Px3--a--------w
 indică	indica	Vmis3s
 comisurotomie	comisurotomie	Ncfsrn
-tricuspidiană	(0.89)tricuspidian	Afpfsrn
+tricuspidiană	tricuspidian	Afpfsrn
 .	.	PERIOD
 
 Valvele	valvă	Ncfpry
@@ -4178,7 +4178,7 @@ al	al	Tsms
 activității	activitate	Ncfsoy
 fizice	fizic	Afpfson
 sunt	fi	Vmip3p
-predictori	(0.56)predictor	Ncmp-n
+predictori	predictor	Ncmp-n
 importanți	important	Afpmp-n
 ai	al	Tsmp
 beneficiului	beneficiu	Ncmsoy
@@ -4210,7 +4210,7 @@ este	fi	Vmip3s
 atât	atât	Rgp
 consecința	consecință	Ncfsry
 stazei	stază	Ncfsoy
-veno-capilare	(0.75)veno-capilar	Afpfson
+veno-capilare	veno-capilar	Afpfson
 ,	,	COMMA
 cât	cât	Rw
 și	și	Crssp
@@ -4255,7 +4255,7 @@ de	de	Spsa
 tahiaritmii	tahiaritmie	Ncfp-n
 sau	sau	Ccssp
 de	de	Spsa
-bradiaritmii	(0.7)bradiaritmie	Ncfp-n
+bradiaritmii	bradiaritmie	Ncfp-n
 ,	,	COMMA
 de	de	Spsa
 afectarea	afectare	Ncfsry
@@ -4291,7 +4291,7 @@ o	un	Tifsr
 consecință	consecință	Ncfsrn
 a	al	Tsfs
 retenției	retenție	Ncfsoy
-hidrosaline	(0.78)hidrosalian	Afpfson
+hidrosaline	hidrosalin	Afpfson
 și	și	Crssp
 a	al	Tsfs
 tratamentului	tratament	Ncmsoy
@@ -4310,7 +4310,7 @@ asociază	asocia	Vmip3
 cu	cu	Spsa
 creșterea	creștere	Ncfsry
 activității	activitate	Ncfsoy
-neurohormonale	(0.75)neurohormonal	Afpfson
+neurohormonale	neurohormonal	Afpfson
 și	și	Crssp
 a	al	Tsfs
 activității	activitate	Ncfsoy
@@ -4359,9 +4359,9 @@ interferează	interfera	Vmip3
 cu	cu	Spsa
 activarea	activare	Ncfsry
 sistemelor	sistem	Ncfpoy
-neurohormonale	(0.89)neurohormonal	Afpfp-n
+neurohormonale	neurohormonal	Afpfp-n
 ,	,	COMMA
-betablocantele	(0.53)betablocantă	Ncfpry
+betablocantele	betablocant	Ncfpry
 și	și	Crssp
 inhibitorii	inhibitor	Ncmpry
 sistemului	sistem	Ncmsoy
@@ -4379,7 +4379,7 @@ terapeutic	terapeutic	Afpms-n
 ,	,	COMMA
 deoarece	deoarece	Csssp
 tahicardia	tahicardie	Ncfsry
-sinusală	(0.89)sinusal	Afpfsrn
+sinusală	sinusal	Afpfsrn
 și	și	Crssp
 tahiaritmiile	tahiaritmie	Ncfpry
 ,	,	COMMA
@@ -4402,7 +4402,7 @@ păstrată	păstrat	Afpfsrn
 
 Elucidarea	elucidare	Ncfsry
 mecanismelor	mecanism	Ncfpoy
-fizio	(0.89)fizie	Ncfsvy
+fizio	fizio	X
 patologice	patologic	Afpfp-n
 incomplet	incomplet	Afpms-n
 cunoscute	cunoscut	Afpfp-n
@@ -4462,7 +4462,7 @@ sacrate	sacrat	Afpfp-n
 precum	precum	Rw
 și	și	Crssp
 de	de	Spsa
-nespecificitatea	(0.82)nespecificitate	Ncfsry
+nespecificitatea	nespecificitate	Ncfsry
 lor	lui	Ds3---p
 diagnostică	diagnostica	Vmis3s
 (	(	LPAR
@@ -4512,7 +4512,7 @@ tiazidic	(WF)tiazidic	Afpms-n
 
 Există	exista	Vmis3s
 trei	trei	Mc-p-l
-subtipuri	(0.56)subtip	Ncfp-n
+subtipuri	subtip	Ncfp-n
 de	de	Spsa
 receptori	receptor	Afpmp-n
 de	de	Spsa
@@ -4542,7 +4542,7 @@ publicat	publica	Vmp--sm
 )	)	RPAR
 a	avea	Va--3s
 utilizat	utiliza	Vmp--sm
-rolofilina	(0.64)rolofilină	Ncfsry
+rolofilina	rolofilină	Ncfsry
 ,	,	COMMA
 un	un	Timsr
 inhibitor	inhibitor	Afpms-n
@@ -4570,7 +4570,7 @@ lipsa	lipsă	Ncfsry
 efectului	efect	Ncmsoy
 favorabil	favorabil	Afpms-n
 al	al	Tsms
-rolofilinei	(0.71)rolofilină	Ncfsoy
+rolofilinei	rolofilină	Ncfsoy
 asupra	asupra	Spsg
 simptomatologiei	simptomatologie	Ncfsoy
 ICA	ICA	Np
@@ -4611,7 +4611,7 @@ Durata	durată	Ncfsry
 de	de	Spsa
 administrare	administrare	Ncfsrn
 a	al	Tsfs
-nitroprusiatului	(0.71)nitroprusiat	Ncmsoy
+nitroprusiatului	nitroprusiat	Ncmsoy
 de	de	Spsa
 sodiu	sodiu	Ncms-n
 nu	nu	Qz
@@ -4651,7 +4651,7 @@ a	avea	Va--3s
 arătat	arăta	Vmp--sm
 că	că	Csssp
 utilizarea	utilizare	Ncfsry
-neseritidului	(0.71)neseritid	Ncmsoy
+neseritidului	neseritid	Ncmsoy
 alături	alături	Rgp
 de	de	Spsa
 terapia	terapie	Ncfsry
@@ -4734,7 +4734,7 @@ este	fi	Vmip3s
 un	un	Timsr
 inhibitor	inhibitor	Afpms-n
 al	al	Tsms
-fosfodiesterazei	(0.71)fosfodiesterază	Ncfsoy
+fosfodiesterazei	fosfodiesterază	Ncfsoy
 care	care	Pw3--r
 crește	crește	Vmip3s
 inotropismul	inotropism	Ncmsry
@@ -4767,7 +4767,7 @@ simptome	simptom	Ncfp-n
 de	de	Spsa
 tipul	tip	Ncmsry
 crizelor	criză	Ncfpoy
-anginoase	(0.93)anginos	Afpfp-n
+anginoase	anginos	Afpfp-n
 și	și	Crssp
 scurtării	scurtare	Ncfsoy
 respirației	respirație	Ncfsoy
@@ -4854,7 +4854,7 @@ riscul	risc	Ncmsry
 ischemiilor	ischemie	Ncfpoy
 cerebrale	cerebral	Afpfp-n
 secundare	secundar	Afpfp-n
-hipoperfuziei	(0.89)hipoperfuzie	Ncfsoy
+hipoperfuziei	hipoperfuzie	Ncfsoy
 .	.	PERIOD
 
 În	în	Spsa
@@ -4868,7 +4868,7 @@ IMA	IMA	Np
 ,	,	COMMA
 se	sine	Px3--a--------w
 indică	indica	Vmis3s
-repermeabilizarea	(0.82)repermeabilizare	Ncfsry
+repermeabilizarea	repermeabilizare	Ncfsry
 vasului	vas	Ncmsoy
 responsabil	responsabil	Afpms-n
 ,	,	COMMA
@@ -4888,7 +4888,7 @@ miocardic	miocardic	Afpms-n
 ,	,	COMMA
 dimensiunea	dimensiune	Ncfsry
 zonei	zonă	Ncfsoy
-infarctizate	(0.75)infarctizat	Afpfson
+infarctizate	infarctizat	Afpfson
 ,	,	COMMA
 scade	scădea	Vmip3s
 necesarul	necesar	Ncmsry
@@ -4927,7 +4927,7 @@ contextul	context	Ncmsry
 asocierii	asociere	Ncfsoy
 unor	un	Ti-po
 multiple	multiplu	Afpfp-n
-comorbidități	(0.57)comorbiditate	Ncfp-n
+comorbidități	comorbiditate	Ncfp-n
 prin	prin	Spsa
 rata	rată	Ncfsry
 complicațiilor	complicație	Ncfpoy
@@ -4941,7 +4941,7 @@ mortalității	mortalitate	Ncfsoy
 cazul	caz	Ncmsry
 în	în	Spsa
 care	care	Pw3--r
-cuspele	(0.59)cuspe	Ncfpry
+cuspele	cuspă	Ncfpry
 nu	nu	Qz
 sunt	fi	Vaip3p
 afectate	afecta	Vmp--pf
@@ -4969,7 +4969,7 @@ valvulară	valvular	Afpfsrn
 .	.	PERIOD
 
 Deoarece	deoarece	Csssp
-cuspele	(0.55)cuspe	Ncfpry
+cuspele	cuspă	Ncfpry
 sunt	fi	Vmip3p
 de	de	Spsa
 obicei	obicei	Ncms-n
@@ -4999,9 +4999,9 @@ de	de	Spsa
 exemplu	exemplu	Ncms-n
 ,	,	COMMA
 tracțiunea	tracțiune	Ncfsry
-postischemică	(0.89)postischemic	Afpfsrn
+postischemică	postischemic	Afpfsrn
 a	al	Tsfs
-cuspei	(0.64)cuspe	Ncfsoy
+cuspei	cuspă	Ncfsoy
 posterioare	posterior	Afpfson
 și	și	Crssp
 IC	ic	Ncms-n
@@ -5024,7 +5024,7 @@ afectării	afectare	Ncfsoy
 ventriculare	ventricular	Afpfson
 și	și	Crssp
 cardiomiopatiei	cardiomiopatie	Ncfsoy
-dilatative	(0.75)dilatativ	Afpfson
+dilatative	dilatativ	Afpfson
 ,	,	COMMA
 jetul	jet	Ncmsry
 fiind	fi	Vag
@@ -5040,7 +5040,7 @@ se	sine	Px3--a--------w
 indică	indica	Vmis3s
 în	în	Spsa
 afectările	afectare	Ncfpry
-trivasculare	(0.89)trivascular	Afpfp-n
+trivasculare	trivascular	Afpfp-n
 ,	,	COMMA
 la	la	Spsa
 pacienții	pacient	Ncmpry
@@ -5091,13 +5091,13 @@ acestea	acesta	Pd3fpr
 ,	,	COMMA
 celulele	celulă	Ncfpry
 stem	stem	Ncms-n
-mezenchimale	(0.57)mezenchimală	Ncfp-n
+mezenchimale	mezenchimal	Ncfp-n
 (	(	LPAR
 CSM	CSM	Np
 )	)	RPAR
 sunt	fi	Vaip3p
 celule	celulă	Ncfson
-multipotente	(0.75)multipotent	Afpfson
+multipotente	multipotent	Afpfprn
 izolate	izola	Vmp--pf
 din	din	Spsa
 măduva	măduvă	Ncfsry
@@ -5111,11 +5111,11 @@ care	care	Pw3--r
 pot	putea	Vmip3p
 genera	genera	Vmnp
 linii	linie	Ncfp-n
-adipocitare	(0.89)adipocitar	Afpfp-n
+adipocitare	adipocitar	Afpfp-n
 ,	,	COMMA
 osteogenice	osteogenic	Afpfp-n
 și	și	Crssp
-condrogenice	(0.89)condrogenic	Afpfp-n
+condrogenice	condrogenic	Afpfp-n
 și	și	Crssp
 ,	,	COMMA
 cu	cu	Spsa
@@ -5142,7 +5142,7 @@ CSA	CSA	Np
 îl	el	Pp3msa--------w
 reprezintă	reprezenta	Vmip3
 celulele	celulă	Ncfpry
-progenitoare	(0.93)progenitor	Afpfp-n
+progenitoare	progenitor	Afpfp-n
 endoteliale	endotelial	Afpfp-n
 (	(	LPAR
 CPE	CPE	Np
@@ -5194,7 +5194,7 @@ donatori	donator	Ncmp-n
 ,	,	COMMA
 cât	cât	Rw
 și	și	Crssp
-recipienți	(0.57)recipiență	Ncmp-n
+recipienți	recipient	Ncmp-n
 cu	cu	Spsa
 vârste	vârstă	Ncfp-n
 comparabile	comparabil	Afpfp-n
@@ -5235,7 +5235,7 @@ clasică	clasic	Afpfsrn
 în	în	Spsa
 favoarea	favoare	Ncfsry
 tehnicii	tehnică	Ncfsoy
-bicave	(0.75)bicav	Afpfson
+bicave	bicav	Afpfson
 care	care	Pw3--r
 ,	,	COMMA
 deși	deși	Csssp
@@ -5256,7 +5256,7 @@ incidență	incidență	Ncfsrn
 scăzută	scăzut	Afpfsrn
 a	al	Tsfs
 tahiaritmiilor	tahiaritmie	Ncfpoy
-supraventriculare	(0.75)supraventricular	Afpfson
+supraventriculare	supraventricular	Afpfson
 și	și	Crssp
 a	al	Tsfs
 regurgitării	regurgitare	Ncfsoy
@@ -5268,7 +5268,7 @@ alt	alt	Di3ms----e
 dezavantaj	dezavantaj	Ncms-n
 al	al	Tsms
 tehnicii	tehnică	Ncfsoy
-bicave	(0.75)bicav	Afpfson
+bicave	bicav	Afpfson
 îl	el	Pp3msa--------w
 reprezintă	reprezenta	Vmip3
 riscul	risc	Ncmsry
@@ -5295,11 +5295,11 @@ nitric	nitric	Afpms-n
 inhalator	inhalator	Ncms-n
 ,	,	COMMA
 a	al	Tsfs
-epoprostenolului	(0.71)epoprostenol	Ncmsoy
+epoprostenolului	epoprostenol	Ncmsoy
 intravenos	intravenos	Afpms-n
 ,	,	COMMA
 a	al	Tsfs
-prostaglandinelor	(0.71)prostaglandină	Ncfpoy
+prostaglandinelor	prostaglandină	Ncfpoy
 în	în	Spsa
 aerosoli	aerosol	Ncmp-n
 și	și	Crssp
@@ -5313,7 +5313,7 @@ postoperatorie	postoperatoriu	Afpfsrn
 .	.	PERIOD
 
 Mortalitatea	mortalitate	Ncfsry
-perioperatorie	(0.89)perioperatoriu	Afpfsrn
+perioperatorie	perioperatoriu	Afpfsrn
 asociată	asocia	Vmp--sf
 transplantului	transplant	Ncmsoy
 cardiac	cardiac	Afpms-n
@@ -5335,7 +5335,7 @@ FEVS	FEVS	Np
 cu	cu	Spsa
 8_10%	8_10%	Mc
 după	după	Spsa
-revascularizarea	(0.82)revascularizare	Ncfsry
+revascularizarea	revascularizare	Ncfsry
 chirurgicală	chirurgical	Afpfsrn
 ,	,	COMMA
 cu	cu	Spsa
@@ -5543,7 +5543,7 @@ asupra	asupra	Spsg
 factorilor	factor	Ncmpoy
 de	de	Spsa
 risc	risc	Ncms-n
-corectabili	(0.89)corectabil	Afpmp-n
+corectabili	corectabil	Afpmp-n
 ,	,	COMMA
 urmărire	urmărire	Ncfsrn
 și	și	Crssp
@@ -5570,7 +5570,7 @@ după	după	Spsa
 evaluarea	evaluare	Ncfsry
 atentă	atent	Afpfsrn
 a	al	Tsfs
-comorbidităților	(0.54)comorbiditate	Ncfpoy
+comorbidităților	comorbiditate	Ncfpoy
 și	și	Crssp
 screening	screening	Ncms-n
 activ	activ	Afpms-n
@@ -5586,7 +5586,7 @@ tiroidiene	tiroidian	Afpfp-n
 practică	practică	Ncfsrn
 ,	,	COMMA
 este	fi	Vaip3s
-subutilizată	(0.74)subutiliza	Vmp--sf
+subutilizată	subutiliza	Vmp--sf
 la	la	Spsa
 vârstnici	vârstnic	Ncmp-n
 ,	,	COMMA
@@ -5617,7 +5617,7 @@ radiofrecvență	radiofrecvență	Ncfsrn
 este	fi	Vmip3s
 o	un	Tifsr
 terapie	terapie	Ncfsrn
-non-farmacologică	(0.89)non-farmacologic	Afpfsrn
+non-farmacologică	non-farmacologic	Afpfsrn
 aplicabilă	aplicabil	Afpfsrn
 în	în	Spsa
 FA	fa	Ncms-n
@@ -5669,7 +5669,7 @@ fidel	fidel	Afpms-n
 pentru	pentru	Spsa
 mortalitate	mortalitate	Ncfsrn
 este	fi	Vmip3s
-microalbuminuria	(0.82)microalbuminurie	Ncfsry
+microalbuminuria	microalbuminurie	Ncfsry
 ,	,	COMMA
 la	la	Spsa
 rândul	rând	Ncmsry
@@ -5691,7 +5691,7 @@ genetic	genetic	Afpms-n
 al	al	Tsms
 RA	RA	Yn
 pentru	pentru	Spsa
-markeri	(0.56)marke	Ncmp-n
+markeri	marker	Ncmp-n
 multipli	multiplu	Afpmp-n
 (	(	LPAR
 48	48	Mc
@@ -5706,7 +5706,7 @@ avea	avea	Vmnp
 și	și	Crssp
 reducerea	reducere	Ncfsry
 activității	activitate	Ncfsoy
-dopaminergice	(0.75)dopaminergic	Afpfson
+dopaminergice	dopaminergic	Afpfson
 la	la	Spsa
 nivel	nivel	Ncms-n
 central	central	Afpms-n
@@ -5723,7 +5723,7 @@ prin	prin	Spsa
 metoda	metodă	Ncfsry
 Finapres	Finapres	Np
 ,	,	COMMA
-pseudohipertensiunea	(0.82)pseudohipertensiune	Ncfsry
+pseudohipertensiunea	pseudohipertensiune	Ncfsry
 este	fi	Vaip3s
 definită	defini	Vmp--sf
 ca	ca	Rc
@@ -5776,7 +5776,7 @@ precum	precum	Rw
 prognostică	prognostica	Vmis3s
 pentru	pentru	Spsa
 evidențierea	evidențiere	Ncfsry
-profiului	(0.64)profi	Ncmsoy
+profiului	profil	Ncmsoy
 tensional	tensional	Afpms-n
 și	și	Crssp
 a	al	Tsfs
@@ -5791,7 +5791,7 @@ vârstnici	vârstnic	Ncmp-n
 .	.	PERIOD
 
 HTA	HTA	Np
-renovasculară	(0.82)renovascula	Vmis3p
+renovasculară	renovascular	Afpfsrn
 prin	prin	Spsa
 stenoză	stenoză	Ncfsrn
 ATS	ATS	Np
@@ -5812,13 +5812,13 @@ renală	renal	Afpfsrn
 ,	,	COMMA
 inclusiv	inclusiv	Rgp
 dozarea	dozare	Ncfsry
-microalbuminuriei	(0.89)microalbuminurie	Ncfsoy
+microalbuminuriei	microalbuminurie	Ncfsoy
 ,	,	COMMA
-lipograma	(0.64)lipogramă	Ncfsry
+lipograma	lipogramă	Ncfsry
 ,	,	COMMA
 glicemia	glicemie	Ncfsry
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	X
 ,	,	COMMA
 eventual	eventual	Rgp
 HbA1c	HbA1c	Np
@@ -5867,14 +5867,14 @@ frecventa	frecvent	Afpfsry
 asociere	asociere	Ncfsrn
 a	al	Tsfs
 complicațiilor	complicație	Ncfpoy
-cerebrovasculare	(0.89)cerebrovascular	Afpfp-n
+cerebrovasculare	cerebrovascular	Afpfp-n
 cu	cu	Spsa
 afectarea	afectare	Ncfsry
 funcției	funcție	Ncfsoy
 renale	renal	Afpfson
 (	(	LPAR
 nivelul	nivel	Ncmsry
-microalbuminuriei	(0.89)microalbuminurie	Ncfsoy
+microalbuminuriei	microalbuminurie	Ncfsoy
 ,	,	COMMA
 creatininei	creatinină	Ncfsoy
 serice	seric	Afpfson
@@ -5965,7 +5965,7 @@ repartizate	repartizat	Afpfp-n
 ,	,	COMMA
 pentru	pentru	Spsa
 evitarea	evitare	Ncfsry
-hipoperfuziei	(0.89)hipoperfuzie	Ncfsoy
+hipoperfuziei	hipoperfuzie	Ncfsoy
 tisulare	tisular	Afpfson
 ,	,	COMMA
 în	în	Spsa
@@ -5981,7 +5981,7 @@ agreează	agrea	Vmip3
 de	de	Spsa
 primă	primă	Mofsrln
 intenție	intenție	Ncfsrn
-betablocantele	(0.53)betablocantă	Ncfpry
+betablocantele	betablocant	Ncfpry
 și	și	Crssp
 face	face	Vmip3s
 specificarea	specificare	Ncfsry
@@ -6004,7 +6004,7 @@ Suplimentar	suplimentar	Afpms-n
 ,	,	COMMA
 prin	prin	Spsa
 asocierea	asociere	Ncfsry
-comorbidităților	(0.54)comorbiditate	Ncfpoy
+comorbidităților	comorbiditate	Ncfpoy
 ,	,	COMMA
 de	de	Spsa
 exemplu	exemplu	Ncms-n
@@ -6034,7 +6034,7 @@ un	un	Timsr
 indicator	indicator	Ncms-n
 al	al	Tsms
 succesului	succes	Ncmsoy
-reperfuziei	(0.89)reperfuzie	Ncfsoy
+reperfuziei	reperfuzie	Ncfsoy
 după	după	Spsa
 ocluzia	ocluzie	Ncfsry
 coronariană	coronarian	Afpfsrn
@@ -6095,7 +6095,7 @@ se	sine	Px3--a--------w
 poate	putea	Vmip3s
 asocia	asocia	Vmnp
 terapie	terapie	Ncfsrn
-antiaritmică	(0.89)antiaritmic	Afpfsrn
+antiaritmică	antiaritmic	Afpfsrn
 .	.	PERIOD
 
 Pacing	Pacing	Np
@@ -6117,7 +6117,7 @@ cele	acela	Pd3fpr
 care	care	Pw3--r
 răspund	răspunde	Vmip3p
 la	la	Spsa
-overdrive	(0.57)overdrivă	Ncfp-n
+overdrive	overdrive	X
 (	(	LPAR
 8	8	Mc
 )	)	RPAR
@@ -6169,7 +6169,7 @@ fost	fi	Vap--sm
 utilizată	utiliza	Vmp--sf
 în	în	Spsa
 tratamentul	tratament	Ncmsry
-bradiaritmiilor	(0.71)bradiaritmie	Ncfpoy
+bradiaritmiilor	bradiaritmie	Ncfpoy
 de	de	Spsa
 peste	peste	Spsa
 60	60	Mc
@@ -6196,7 +6196,7 @@ deopotrivă	deopotrivă	Rgp
 ceea	acela	Pd3fsr
 ce	ce	Pw3--r
 privește	privi	Vmip3s
-morbi-mortalitatea	(0.82)morbi-mortalitate	Ncfsry
+morbi-mortalitatea	morbi-mortalitate	Ncfsry
 și	și	Crssp
 calitatea	calitate	Ncfsry
 vieții	viață	Ncfsoy
@@ -6224,7 +6224,7 @@ care	care	Pw3--r
 devine	deveni	Vmip3s
 manifestă	manifesta	Vmis3s
 după	după	Spsa
-cardioversia	(0.82)cardioversie	Ncfsry
+cardioversia	cardioversie	Ncfsry
 tahiaritmiei	tahiaritmie	Ncfsoy
 atriale	atrial	Afpfson
 .	.	PERIOD
@@ -6248,7 +6248,7 @@ asemenea	asemenea	Afp
 tulburări	tulburare	Ncfp-n
 de	de	Spsa
 conducere	conducere	Ncfsrn
-atrioventriculare	(0.89)atrioventricular	Afpfp-n
+atrioventriculare	atrioventricular	Afpfp-n
 .	.	PERIOD
 
 Cel	cel	Tdmsr
@@ -6260,11 +6260,11 @@ afecțiunii	afecțiune	Ncfsoy
 este	fi	Vaip3s
 sincopa	sincopa	Vmnp
 sau	sau	Ccssp
-presincopa	(0.45)presincopă	Ncfsry
+presincopa	presincopă	Ncfsry
 cauzată	cauza	Vmp--sf
 de	de	Spsa
 oprirea	oprire	Ncfsry
-sinusală	(0.89)sinusal	Afpfsrn
+sinusală	sinusal	Afpfsrn
 ori	ori	Ccssp
 a	al	Tsfs
 blocului	bloc	Ncmsoy
@@ -6318,7 +6318,7 @@ prezintă	prezenta	Vmip3
 întârzieri	întârziere	Ncfp-n
 de	de	Spsa
 conducere	conducere	Ncfsrn
-intraatriale	(0.89)intraatrial	Afpfp-n
+intraatriale	intraatrial	Afpfp-n
 (	(	LPAR
 13	13	Mc
 )	)	RPAR
@@ -6327,7 +6327,7 @@ intraatriale	(0.89)intraatrial	Afpfp-n
 Tulburările	tulburare	Ncfpry
 de	de	Spsa
 conducere	conducere	Ncfsrn
-atrioventriculare	(0.89)atrioventricular	Afpfp-n
+atrioventriculare	atrioventricular	Afpfp-n
 se	sine	Px3--a--------w
 pot	putea	Vmip3p
 exprima	exprima	Vmnp
@@ -6402,11 +6402,11 @@ rapide	rapid	Afpfp-n
 în	în	Spsa
 cazul	caz	Ncmsry
 tahiaritmiilor	tahiaritmie	Ncfpoy
-supraventriculare	(0.89)supraventricular	Afpfp-n
+supraventriculare	supraventricular	Afpfp-n
 .	.	PERIOD
 
 Blocurile	bloc	Ncfpry
-atrioventriculare	(0.89)atrioventricular	Afpfp-n
+atrioventriculare	atrioventricular	Afpfp-n
 se	sine	Px3--a--------w
 clasifică	clasifica	Vmis3s
 în	în	Spsa
@@ -6483,7 +6483,7 @@ AV	AV	Np
 de	de	Spsa
 gradul	grad	Ncmsry
 I	el	Pp3-sd--------w
-pacing	(0.82)pacinge	Vmip3p
+pacing	pacing	X
 -ul	-ul	Tfmsry
 cardiac	cardiac	Afpms-n
 nu	nu	Qz
@@ -6575,7 +6575,7 @@ AVC	AVC	Np
 sau	sau	Ccssp
 a	al	Tsfs
 episoadelor	episod	Ncfpoy
-tromboembolice	(0.89)tromboembolic	Afpfp-n
+tromboembolice	tromboembolic	Afpfp-n
 .	.	PERIOD
 
 Aceste	acest	Dd3fpr---e
@@ -6599,7 +6599,7 @@ precum	precum	Rw
 dezvoltările	dezvoltare	Ncfpry
 din	din	Spsa
 sfera	sferă	Ncfsry
-cardiostimulării	(0.89)cardiostimulare	Ncfsoy
+cardiostimulării	cardiostimulare	Ncfsoy
 permanente	permanent	Afpfson
 au	avea	Va--3p
 schimbat	schimba	Vmp--sm
@@ -6617,7 +6617,7 @@ recente	recent	Afpfp-n
 au	avea	Va--3p
 demonstrat	demonstra	Vmp--sm
 că	că	Csssp
-pacing	(0.82)pacinge	Vmip3p
+pacing	pacing	X
 -ul	-ul	Tfmsry
 timpuriu	timpuriu	Afpms-n
 (	(	LPAR
@@ -6698,7 +6698,7 @@ fibrinogenului	fibrinogen	Ncmsoy
 cresc	crește	Vmip3p
 și	și	Crssp
 nivelul	nivel	Ncmsry
-antitrombinei	(0.64)antitrombină	Ncfsoy
+antitrombinei	antitrombină	Ncfsoy
 III	III	Mc
 scade	scădea	Vmip3s
 ,	,	COMMA
@@ -6731,7 +6731,7 @@ necesară	necesar	Afpfsrn
 evaluarea	evaluare	Ncfsry
 probabilității	probabilitate	Ncfsoy
 clinice	clinic	Afpfson
-pretest	(0.82)pretesta	Vmip1s
+pretest	pretest	Rgp
 ,	,	COMMA
 determinarea	determinare	Ncfsry
 D-	de	Spsay
@@ -6756,7 +6756,7 @@ care	care	Pw3--r
 conferă	conferi	Vmip3
 probabilitatea	probabilitate	Ncfsry
 clinică	clinic	Afpfsrn
-pretest	(0.82)pretesta	Vmip1s
+pretest	pretest	Rgp
 (	(	LPAR
 scorurile	scor	Ncfpry
 Wells	Wells	Np
@@ -6782,7 +6782,7 @@ exclus	exclude	Vmp--sm
 prezența	prezență	Ncfsry
 unui	un	Timso
 scor	scor	Ncms-n
-pretest	(0.82)pretesta	Vmip1s
+pretest	pretest	Rgp
 cu	cu	Spsa
 probabilitate	probabilitate	Ncfsrn
 -	-	DASH
@@ -6820,7 +6820,7 @@ pentru	pentru	Spsa
 D-	de	Spsay
 dimeri	dimer	Ncmp-n
 în	în	Spsa
-tromboembolismul	(0.64)tromboembolism	Ncmsry
+tromboembolismul	tromboembolism	Ncmsry
 venos	venos	Afpms-n
 se	sine	Px3--a--------w
 reduce	reduce	Vmip3s
@@ -6856,7 +6856,7 @@ nefracționate	nefracționat	Afpfson
 privind	privi	Vmg
 scăderea	scădere	Ncfsry
 recurenței	recurență	Ncfsoy
-tromboembolismului	(0.71)tromboembolism	Ncmsoy
+tromboembolismului	tromboembolism	Ncmsoy
 venos	venos	Afpms-n
 a	avea	Va--3s
 fost	fi	Vap--sm
@@ -6933,7 +6933,7 @@ rate	rată	Ncfp-n
 înalte	înalt	Afpfp-n
 ale	al	Tsfp
 recurenței	recurență	Ncfsoy
-tromboembo-lis-mului	(0.64)tromboembo-lis-m	Ncmsoy
+tromboembo-lis-mului	tromboembolism	Ncmsoy
 venos	venos	Afpms-n
 (	(	LPAR
 8,2%	8,2%	Mc
@@ -6977,7 +6977,7 @@ terapeutice	terapeutic	Afpfp-n
 special	special	Rgp
 în	în	Spsa
 prezența	prezență	Ncfsry
-comorbidităților	(0.54)comorbiditate	Ncfpoy
+comorbidităților	comorbiditate	Ncfpoy
 și	și	Crssp
 a	al	Tsfs
 interacțiunilor	interacțiune	Ncfpoy
@@ -6993,7 +6993,7 @@ au	avea	Va--3p
 obiectivat	obiectiva	Vmp--sm
 și	și	Crssp
 proliferarea	proliferare	Ncfsry
-intimală	(0.89)intimal	Afpfsrn
+intimală	intimal	Afpfsrn
 în	în	Spsa
 vasele	vas	Ncfpry
 mici	mic	Afp-p-n
@@ -7049,7 +7049,7 @@ permite	permite	Vmip3s
 și	și	Crssp
 detecția	detecție	Ncfsry
 șunturilor	șunt	Ncfpoy
-sistemico	(0.98)sistemic	Afpfsvy
+sistemico	sistemico	X
 pulmonare	pulmonar	Afpfp-n
 și	și	Crssp
 efectuarea	efectuare	Ncfsry
@@ -7087,7 +7087,7 @@ NYHA	NYHA	Np
 ca	ca	Rc
 alternativă	alternativă	Ncfsrn
 la	la	Spsa
-prostanoizi	(0.57)prostanoid	Ncmp-n
+prostanoizi	prostanoid	Ncmp-n
 ,	,	COMMA
 sau	sau	Ccssp
 la	la	Spsa
@@ -7111,9 +7111,9 @@ Ulterior	ulterior	Rgp
 au	avea	Va--3p
 fost	fi	Vap--sm
 introduse	introduce	Vmp--pf
-tadalafilul	(0.64)tadalafil	Ncmsry
+tadalafilul	tadalafil	Ncmsry
 și	și	Crssp
-vardenafilul	(0.64)vardenafil	Ncmsry
+vardenafilul	vardenafil	Ncmsry
 ,	,	COMMA
 care	care	Pw3--r
 sunt	fi	Vmip3p
@@ -7130,7 +7130,7 @@ utilizat	utiliza	Vmp--sm
 în	în	Spsa
 asociere	asociere	Ncfsrn
 cu	cu	Spsa
-prostanoizi	(0.93)prostanoid	Afpmp-n
+prostanoizi	prostanoid	Ncmp-n
 sau	sau	Ccssp
 antagoniști	antagonist	Afpmp-n
 de	de	Spsa
@@ -7161,7 +7161,7 @@ face	face	Vmnp
 parte	parte	Ncfsrn
 din	din	Spsa
 spectrul	spectru	Ncmsry
-tromboembolismului	(0.71)tromboembolism	Ncmsoy
+tromboembolismului	tromboembolism	Ncmsoy
 pulmonar	pulmonar	Afpms-n
 venos	venos	Afpms-n
 ,	,	COMMA
@@ -7302,11 +7302,11 @@ cunoscută	cunoscut	Afpfsrn
 clasificarea	clasificare	Ncfsry
 în	în	Spsa
 TVP	TVP	Np
-proximală	(0.89)proximal	Afpfsrn
+proximală	proximal	Afpfsrn
 (	(	LPAR
-femuro-poplitee	(0.89)femuro-popliteu	Afpfsrn
+femuro-poplitee	femuro-popliteu	Afpfsrn
 și	și	Crssp
-ilio-femurală	(0.89)ilio-femural	Afpfsrn
+ilio-femurală	ilio-femural	Afpfsrn
 )	)	RPAR
 și	și	Crssp
 TVP	TVP	Np
@@ -7319,7 +7319,7 @@ Cu	cu	Spsa
 excepția	excepție	Ncfsry
 contraindicațiilor	contraindicație	Ncfpoy
 ,	,	COMMA
-anticoagularea	(0.82)anticoagulare	Ncfsry
+anticoagularea	anticoagulare	Ncfsry
 în	în	Spsa
 doze	doză	Ncfp-n
 terapeutice	terapeutic	Afpfp-n
@@ -7334,10 +7334,10 @@ TVP	TVP	Np
 În	în	Spsa
 cazul	caz	Ncmsry
 TVP	TVP	Np
-paraneoplazice	(0.75)paraneoplazic	Afpfson
+paraneoplazice	paraneoplazic	Afpfson
 ,	,	COMMA
 durata	durată	Ncfsry
-anticoagulării	(0.89)anticoagulare	Ncfsoy
+anticoagulării	anticoagulare	Ncfsoy
 se	sine	Px3--a--------w
 va	vrea	Va--3s
 prelungi	prelungi	Vmnp
@@ -7357,7 +7357,7 @@ recurență	recurență	Ncfsrn
 .	.	PERIOD
 
 Dacă	dacă	Csssp
-anticoagularea	(0.82)anticoagulare	Ncfsry
+anticoagularea	anticoagulare	Ncfsry
 este	fi	Vmip3s
 pe	pe	Spsa
 termen	termen	Ncms-n
@@ -7399,7 +7399,7 @@ i	el	Pp3-sd--------w
 O	un	Tifsr
 pompă	pompă	Ncfsrn
 musculară	muscular	Afpfsrn
-gambieră	(0.79)gambiera	Vmis3s
+gambieră	gambier	Afpfsrn
 deficitară	deficitar	Afpfsrn
 nu	nu	Qz
 va	vrea	Va--3s
@@ -7440,7 +7440,7 @@ Diosminum	Diosminum	Np
 cu	cu	Spsa
 o	un	Tifsr
 fracție	fracție	Ncfsrn
-flavonoidă	(0.89)flavonoid	Afpfsrn
+flavonoidă	flavonoid	Afpfsrn
 (	(	LPAR
 detralex	(WF)detralex	Ncmsvn
 ,	,	COMMA
@@ -7478,7 +7478,7 @@ mai	mai	Rp
 redus	reduce	Vmp--sm
 asupra	asupra	Spsg
 agregării	agregare	Ncfsoy
-plachetare	(0.75)plachetar	Afpfson
+plachetare	plachetar	Afpfson
 și	și	Crssp
 sângerării	sângerare	Ncfsoy
 (	(	LPAR
@@ -7512,14 +7512,14 @@ examen	examen	Ncms-n
 Doppler	Doppler	Np
 a	al	Tsfs
 extinderii	extindere	Ncfsoy
-trombului	(0.71)tromb	Ncmsoy
+trombului	tromb	Ncmsoy
 în	în	Spsa
 sistemul	sistem	Ncmsry
 venos	venos	Afpms-n
 profund	profund	Rgp
 necesită	necesita	Vmis3s
 inițierea	inițiere	Ncfsry
-anticoagulării	(0.89)anticoagulare	Ncfsoy
+anticoagulării	anticoagulare	Ncfsoy
 în	în	Spsa
 doză	doză	Ncfsrn
 asemănătoare	asemănător	Afpf--n
@@ -7566,7 +7566,7 @@ DZ	DZ	Np
 ,	,	COMMA
 dislipidemia	dislipidemie	Ncfsry
 ,	,	COMMA
-hiperhomocisteinemia	(0.82)hiperhomocisteinemie	Ncfsry
+hiperhomocisteinemia	hiperhomocisteinemie	Ncfsry
 ,	,	COMMA
 valorile	valoare	Ncfpry
 crescute	crescut	Afpfp-n
@@ -7575,9 +7575,9 @@ proteinei	proteină	Ncfsoy
 C	C	Ncm--n
 reactive	reactiv	Afpfp-n
 ,	,	COMMA
-hiperfibrinogenemia	(0.82)hiperfibrinogenemie	Ncfsry
+hiperfibrinogenemia	hiperfibrinogenemie	Ncfsry
 ,	,	COMMA
-hipercoagulabilitatea	(0.82)hipercoagulabilitate	Ncfsry
+hipercoagulabilitatea	hipercoagulabilitate	Ncfsry
 și	și	Crssp
 boala	boală	Ncfsry
 cronică	cronic	Afpfsrn
@@ -7665,7 +7665,7 @@ a	al	Tsfs
 nicotinei	nicotină	Ncfsoy
 (	(	LPAR
 tablete	tabletă	Ncfp-n
-masticabile	(0.89)masticabil	Afpfp-n
+masticabile	masticabil	Afpfp-n
 ,	,	COMMA
 inhalatoare	inhalator	Ncfp-n
 ,	,	COMMA
@@ -7680,7 +7680,7 @@ antidepresivul	antidepresiv	Afpmsry
 Bupropion	Bupropion	Np
 cu	cu	Spsa
 acțiune	acțiune	Ncfsrn
-dopaminergică	(0.89)dopaminergic	Afpfsrn
+dopaminergică	dopaminergic	Afpfsrn
 și	și	Crssp
 adrenergică	adrenergic	Afpfsrn
 .	.	PERIOD
@@ -7702,7 +7702,7 @@ diagnostic	diagnostic	Ncms-n
 precum	precum	Rw
 măsurarea	măsurare	Ncfsry
 TA	tău	Ds2fsrs
-sisto-lice	(0.89)sisto-lic	Afpfp-n
+sisto-lice	sistolic	Afpfson
 la	la	Spsa
 nivelul	nivel	Ncmsry
 degetelor	deget	Ncfpoy
@@ -7716,7 +7716,7 @@ tisulară	tisular	Afpfsrn
 periferică	periferic	Afpfsrn
 (	(	LPAR
 evaluare	evaluare	Ncfsrn
-trans-cutanată	(0.89)trans-cutanat	Afpfsrn
+trans-cutanată	trans-cutanat	Afpfsrn
 )	)	RPAR
 sau	sau	Ccssp
 examen	examen	Ncms-n
@@ -7747,7 +7747,7 @@ angio-CT	angio-ct	Ncms-n
 în	în	Spsa
 cazul	caz	Ncmsry
 maladiilor	maladie	Ncfpoy
-aorto-iliace	(0.89)aorto-iliac	Afpfp-n
+aorto-iliace	aorto-iliac	Afpfp-n
 au	avea	Va--3p
 reprezentat	reprezenta	Vmp--sm
 principalele	principal	Afpfpry
@@ -7822,7 +7822,7 @@ luni	lună	Ncfp-n
 
 Terapia	terapie	Ncfsry
 cu	cu	Spsa
-prostaglandine	(0.51)prostaglandină	Ncfp-n
+prostaglandine	prostaglandină	Ncfp-n
 pentru	pentru	Spsa
 BAP	BAP	Np
 este	fi	Vaip3s
@@ -7841,7 +7841,7 @@ Americii	America	Npfsoy
 .	.	PERIOD
 
 Terapia	terapie	Ncfsry
-antiplachetară	(0.89)antiplachetar	Afpfsrn
+antiplachetară	antiplachetar	Afpfsrn
 trebuie	trebui	Vmip3
 începută	începe	Vmp--sf
 la	la	Spsa
@@ -7851,7 +7851,7 @@ cu	cu	Spsa
 BAP	BAP	Np
 înainte	înainte	Rgp
 de	de	Spsa
-revascularizarea	(0.82)revascularizare	Ncfsry
+revascularizarea	revascularizare	Ncfsry
 chirurgicală	chirurgical	Afpfsrn
 (	(	LPAR
 1	1	Mc
@@ -7867,7 +7867,7 @@ de	de	Spsa
 severitatea	severitate	Ncfsry
 simptomatologiei	simptomatologie	Ncfsoy
 ,	,	COMMA
-comorbiditățile	(0.59)comorbiditate	Ncfpry
+comorbiditățile	comorbiditate	Ncfpry
 asociate	asociat	Afpfp-n
 și	și	Crssp
 posibilitățile	posibilitate	Ncfpry
@@ -7897,7 +7897,7 @@ de	de	Spsa
 metri	metru	Ncmp-n
 poate	putea	Vmip3s
 însă	însă	Ccssp
-incapacita	(0.79)incapacite	Vmii3s
+incapacita	incapacita	Vmnp
 semnificativ	semnificativ	Rgp
 un	un	Timsr
 pacient	pacient	Ncms-n
@@ -7975,7 +7975,7 @@ realizate	realiza	Vmp--pf
 biiliac	biiliac	Ncms-n
 (	(	LPAR
 maladie	maladie	Ncfsrn
-aorto-iliacă	(0.89)aorto-iliac	Afpfsrn
+aorto-iliacă	aorto-iliac	Afpfsrn
 tip	tip	Ncms-n
 I	i	Mo-s-r
 )	)	RPAR
@@ -7983,7 +7983,7 @@ sau	sau	Ccssp
 bifemural	(WF)bifemural	Afpms-n
 (	(	LPAR
 maladie	maladie	Ncfsrn
-aorto-iliacă	(0.89)aorto-iliac	Afpfsrn
+aorto-iliacă	aorto-iliac	Afpfsrn
 tip	tip	Ncms-n
 II	II	Mc
 i	fi	Vmip3s----y
@@ -8005,7 +8005,7 @@ bypass	bypass	Ncms-n
 unilateral	unilateral	Afpms-n
 (	(	LPAR
 artera	arteră	Ncfsry
-inflow	(0.7)inflowe	Ncfp-n
+inflow	inflow	X
 normală	normal	Afpfsrn
 versus	versus	Np
 risc	risc	Ncms-n
@@ -8030,7 +8030,7 @@ face	face	Vmip3s
 imposibilă	imposibil	Afpfsrn
 interven	interven	Ncms-n
 ia	lua	Vmip3s
-endovasculară	(0.89)endovascular	Afpfsrn
+endovasculară	endovascular	Afpfsrn
 ,	,	COMMA
 solu	solu	Rgp
 ia	lua	Vmip3s
@@ -8096,7 +8096,7 @@ evită	evita	Vmis3s
 riscurile	risc	Ncfpry
 asociate	asocia	Vmp--pf
 cu	cu	Spsa
-abordul	(0.64)abord	Ncmsry
+abordul	abord	Ncmsry
 retro	retro	Afp
 -	-	DASH
 sau	sau	Ccssp
@@ -8162,7 +8162,7 @@ fi	fi	Vanp
 folosită	folosi	Vmp--sf
 atât	atât	Rgp
 in	in	Ncms-n
-situ	(0.84)si	Vmp--sm---y
+situ	situ	X
 (	(	LPAR
 necesitând	necesita	Vmg
 devalvulare	devalvulare	Ncfsrn
@@ -8178,7 +8178,7 @@ fără	fără	Spsa
 angioplastie	angioplastie	Ncfsrn
 de	de	Spsa
 anastomoză	anastomoză	Ncfsrn
-proximală	(0.89)proximal	Afpfsrn
+proximală	proximal	Afpfsrn
 (	(	LPAR
 figura	figură	Ncfsry
 35.7	35.7	Mc
@@ -8226,7 +8226,7 @@ ani	an	Ncmp-n
 pentru	pentru	Spsa
 bypass	bypass	Ncms-n
 urile	ură	Ncfpry
-ocluzionate	(0.89)ocluzionat	Afpfp-n
+ocluzionate	ocluzionat	Afpfp-n
 indicate	indicat	Afpfp-n
 inițial	inițial	Rgp
 pentru	pentru	Spsa
@@ -8290,7 +8290,7 @@ opțiune	opțiune	Ncfsrn
 chirurgicală	chirurgical	Afpfsrn
 atunci	atunci	Rgp
 când	când	Rw
-revascularizarea	(0.82)revascularizare	Ncfsry
+revascularizarea	revascularizare	Ncfsry
 nu	nu	Qz
 este	fi	Vmip3s
 posibilă	posibil	Afpfsrn
@@ -8338,14 +8338,14 @@ balon	balon	Ncms-n
 este	fi	Vmip3s
 preferabilă	preferabil	Afpfsrn
 protezării	protezare	Ncfsoy
-chirugicale	(0.75)chirugical	Afpfson
+chirugicale	chirugical	Afpfson
 cu	cu	Spsa
 grefon	grefon	Ncms-n
 sintetic	sintetic	Afpms-n
 .	.	PERIOD
 
 Terapia	terapie	Ncfsry
-endovasculară	(0.89)endovascular	Afpfsrn
+endovasculară	endovascular	Afpfsrn
 este	fi	Vaip3s
 agreată	agrea	Vmp--sf
 în	în	Spsa
@@ -8385,19 +8385,19 @@ fizic	fizic	Afpms-n
 și	și	Crssp
 cu	cu	Spsa
 terapia	terapie	Ncfsry
-endovasculară	(0.89)endovascular	Afpfsrn
+endovasculară	endovascular	Afpfsrn
 la	la	Spsa
 pacienți	pacient	Ncmp-n
 cu	cu	Spsa
 boală	boală	Ncfsrn
-aorto-iliacă	(0.89)aorto-iliac	Afpfsrn
+aorto-iliacă	aorto-iliac	Afpfsrn
 .	.	PERIOD
 
 În	în	Spsa
 esen	esen	Ncms-n
 ă	ă	I
 ,	,	COMMA
-comorbiditățile	(0.59)comorbiditate	Ncfpry
+comorbiditățile	comorbiditate	Ncfpry
 ,	,	COMMA
 preferința	preferință	Ncfsry
 pacientului	pacient	Ncmsoy
@@ -8421,7 +8421,7 @@ de	de	Spsa
 simptomatologia	simptomatologie	Ncfsry
 BAP	BAP	Np
 permit	permite	Vmip3p
-revascularizarea	(0.82)revascularizare	Ncfsry
+revascularizarea	revascularizare	Ncfsry
 și	și	Crssp
 se	sine	Px3--a--------w
 estimează	estima	Vmip3
@@ -8444,7 +8444,7 @@ TASC	TASC	Np
 II	II	Mc
 recomandă	recomanda	Vmis3s
 tehnicile	tehnică	Ncfpry
-endovasculare	(0.89)endovascular	Afpfp-n
+endovasculare	endovascular	Afpfp-n
 de	de	Spsa
 primă	primă	Mofsrln
 intenție	intenție	Ncfsrn
@@ -8455,7 +8455,7 @@ ia	lua	Vmip3s
 în	în	Spsa
 considerare	considerare	Ncfsrn
 și	și	Crssp
-patența	(0.64)patență	Ncfsry
+patența	patență	Ncfsry
 pe	pe	Spsa
 termen	termen	Ncms-n
 lung	lung	Afpms-n
@@ -8463,7 +8463,7 @@ lung	lung	Afpms-n
 excelentă	excelent	Afpfsrn
 în	în	Spsa
 leziunile	leziune	Ncfpry
-aorto-iliace	(0.89)aorto-iliac	Afpfp-n
+aorto-iliace	aorto-iliac	Afpfp-n
 ,	,	COMMA
 cu	cu	Spsa
 rezultate	rezultat	Ncfp-n
@@ -8481,7 +8481,7 @@ distale	distal	Afpfp-n
 sau	sau	Ccssp
 există	exista	Vmis3s
 afectare	afectare	Ncfsrn
-multisegmentară	(0.89)multisegmentar	Afpfsrn
+multisegmentară	multisegmentar	Afpfsrn
 ,	,	COMMA
 leziuni	leziune	Ncfp-n
 lungi	lung	Afp-p-n
@@ -8489,7 +8489,7 @@ lungi	lung	Afp-p-n
 run-off	run-off	Rgp
 slab	slab	Rgp
 sau	sau	Ccssp
-comorbidități	(0.57)comorbiditate	Ncfp-n
+comorbidități	comorbiditate	Ncfp-n
 cu	cu	Spsa
 impact	impact	Ncms-n
 vascular	vascular	Afpms-n
@@ -8516,7 +8516,7 @@ chirurgical	chirurgical	Afpms-n
 este	fi	Vaip3s
 grevat	greva	Vmp--sm
 de	de	Spsa
-morbi-mortalitatea	(0.82)morbi-mortalitate	Ncfsry
+morbi-mortalitatea	morbi-mortalitate	Ncfsry
 crescută	crește	Vmp--sf
 la	la	Spsa
 vârstnici	vârstnic	Ncmp-n
@@ -8535,7 +8535,7 @@ managementului	management	Ncmsoy
 periprocedural	(WF)periprocedural	Afpms-n
 ,	,	COMMA
 evoluției	evoluție	Ncfsoy
-intraspitalicești	(0.78)intraspitalicesc	Afpfson
+intraspitalicești	intraspitalicesc	Afpfson
 .	.	PERIOD
 
 Leziunile	leziune	Ncfpry
@@ -8543,9 +8543,9 @@ au	avea	Va--3p
 fost	fi	Vmp--sm
 mai	mai	Rp
 des	des	Rgp
-multisegmentare	(0.89)multisegmentar	Afpfp-n
+multisegmentare	multisegmentar	Afpfp-n
 ,	,	COMMA
-femuro-popliteale	(0.89)femuro-popliteal	Afpfp-n
+femuro-popliteale	femuro-popliteal	Afpfp-n
 și	și	Crssp
 distale	distal	Afpfp-n
 și	și	Crssp
@@ -8626,7 +8626,7 @@ inadecvat	inadecvat	Rgp
 pentru	pentru	Spsa
 bypass	bypass	Ncms-n
 ,	,	COMMA
-comorbidități	(0.57)comorbiditate	Ncfp-n
+comorbidități	comorbiditate	Ncfp-n
 ,	,	COMMA
 și	și	Crssp
 astfel	astfel	Rgp
@@ -8651,7 +8651,7 @@ inițial	inițial	Afpms-n
 al	al	Tsms
 intervențiilor	intervenție	Ncfpoy
 hibrid	hibrid	Ncms-n
-aorto-iliace	(0.89)aorto-iliac	Afpfp-n
+aorto-iliace	aorto-iliac	Afpfp-n
 este	fi	Vmip3s
 în	în	Spsa
 general	general	Ncms-n
@@ -8676,7 +8676,7 @@ cele	cel	Tdfpr
 mai	mai	Rp
 multe	mult	Di3fp
 ori	oară	Ncfp-n
-infrarenale	(0.89)infrarenal	Afpfp-n
+infrarenale	infrarenal	Afpfp-n
 .	.	PERIOD
 
 La	la	Spsa
@@ -8742,7 +8742,7 @@ care	care	Pw3--r
 supraviețuiesc	supraviețui	Vmip3p
 ,	,	COMMA
 mortalitatea	mortalitate	Ncfsry
-perioperatorie	(0.89)perioperatoriu	Afpfsrn
+perioperatorie	perioperatoriu	Afpfsrn
 ajunge	ajunge	Vmip3s
 până	până	Csssp
 la	la	Spsa
@@ -8756,7 +8756,7 @@ Tratamentul	tratament	Ncmsry
 include	include	Vmip3s
 administrarea	administrare	Ncfsry
 de	de	Spsa
-betablocante	(0.57)betablocantă	Ncfp-n
+betablocante	betablocant	Ncfp-n
 și	și	Crssp
 ,	,	COMMA
 în	în	Spsa
@@ -8811,7 +8811,7 @@ cu	cu	Spsa
 proteză	proteză	Ncfsrn
 compozită	compozit	Afpfsrn
 și	și	Crssp
-reimplantarea	(0.82)reimplantare	Ncfsry
+reimplantarea	reimplantare	Ncfsry
 arterelor	arteră	Ncfpoy
 coronare	coronar	Afpfp-n
 .	.	PERIOD
@@ -8843,7 +8843,7 @@ afectate	afectat	Afpfson
 se	sine	Px3--a--------w
 face	face	Vmip3s
 cu	cu	Spsa
-reimplantarea	(0.82)reimplantare	Ncfsry
+reimplantarea	reimplantare	Ncfsry
 vaselor	vas	Ncfpoy
 intercostale	intercostal	Afpfp-n
 la	la	Spsa
@@ -8855,7 +8855,7 @@ toracotomie	toracotomie	Ncfsrn
 stângă	stâng	Afpfsrn
 sau	sau	Ccssp
 incizie	incizie	Ncfsrn
-toraco-abdominală	(0.89)toraco-abdominal	Afpfsrn
+toraco-abdominală	toraco-abdominal	Afpfsrn
 .	.	PERIOD
 
 Bypass	bypass	Ncms-n
@@ -8871,7 +8871,7 @@ paraplegiei	paraplegie	Ncfsoy
 din	din	Spsa
 chirurgia	chirurgie	Ncfsry
 anevrismelor	anevrism	Ncfpoy
-toraco-abdominale	(0.89)toraco-abdominal	Afpfp-n
+toraco-abdominale	toraco-abdominal	Afpfp-n
 .	.	PERIOD
 
 În	în	Spsa
@@ -8882,7 +8882,7 @@ este	fi	Vmip3s
 necesară	necesar	Afpfsrn
 monitorizarea	monitorizare	Ncfsry
 presiunilor	presiune	Ncfpoy
-proximale	(0.89)proximal	Afpfp-n
+proximale	proximal	Afpfp-n
 și	și	Crssp
 distale	distal	Afpfp-n
 prin	prin	Spsa
@@ -8913,7 +8913,7 @@ se	sine	Px3--a--------w
 pretează	preta	Vmip3
 la	la	Spsa
 reparare	reparare	Ncfsrn
-endovasculară	(0.89)endovascular	Afpfsrn
+endovasculară	endovascular	Afpfsrn
 (	(	LPAR
 11	11	Mc
 )	)	RPAR
@@ -8950,7 +8950,7 @@ AVC	AVC	Np
 prin	prin	Spsa
 obstrucția	obstrucție	Ncfsry
 trunchiurilor	trunchi	Ncfpoy
-supraaortice	(0.89)supraaortic	Afpfp-n
+supraaortice	supraaortic	Afpfp-n
 ,	,	COMMA
 ischemie	ischemia	Vmis3s
 viscerală	visceral	Afpfsrn
@@ -9006,7 +9006,7 @@ proteze	proteză	Ncfson
 cu	cu	Spsa
 /	/	SLASH
 fără	fără	Spsa
-reimplantarea	(0.82)reimplantare	Ncfsry
+reimplantarea	reimplantare	Ncfsry
 arterelor	arteră	Ncfpoy
 coronare	coronar	Afpfp-n
 .	.	PERIOD
@@ -9084,7 +9084,7 @@ compromis	compromis	Ncms-n
 vascular	vascular	Afpms-n
 pe	pe	Spsa
 membrele	membră	Ncfpry
-pelvine	(0.93)pelvian	Afpfp-n
+pelvine	pelvian	Afpfp-n
 ,	,	COMMA
 expansiune	expansiune	Ncfsrn
 sau	sau	Ccssp
@@ -9100,9 +9100,9 @@ indică	indica	Vmis3s
 tratament	tratament	Ncms-n
 medical	medical	Afpms-n
 cu	cu	Spsa
-antihipertensive	(0.7)antihipertensivă	Ncfp-n
+antihipertensive	antihipertensiv	Ncfp-n
 (	(	LPAR
-betablocante	(0.89)betablocant	Afpfp-n
+betablocante	betablocant	Ncfp-n
 )	)	RPAR
 și	și	Crssp
 antalgice	antalgic	Ncfp-n
@@ -9130,7 +9130,7 @@ aortei	aortă	Ncfsoy
 se	sine	Px3--a--------w
 practică	practica	Vmis3s
 fenestrații	fenestrație	Ncfp-n
-endovasculare	(0.89)endovascular	Afpfp-n
+endovasculare	endovascular	Afpfp-n
 ale	al	Tsfp
 lumenului	lumen	Ncmsoy
 fals	fals	Afpms-n
@@ -9150,7 +9150,7 @@ faldului	fald	Ncmsoy
 de	de	Spsa
 disecție	disecție	Ncfsrn
 la	la	Spsa
-ostiumul	(0.64)ostium	Ncmsry
+ostiumul	ostium	Ncmsry
 unei	un	Tifso
 artere	arteră	Ncfson
 )	)	RPAR
@@ -9196,7 +9196,7 @@ renală	renal	Afpfsrn
 ,	,	COMMA
 hemoragia	hemoragie	Ncfsry
 ,	,	COMMA
-tamponada	(0.64)tamponadă	Ncfsry
+tamponada	tamponadă	Ncfsry
 cardiacă	cardiac	Afpfsrn
 ,	,	COMMA
 ischemia	ischemie	Ncfsry
@@ -9208,7 +9208,7 @@ pulmonară	pulmonar	Afpfsrn
 
 Ischemia	ischemie	Ncfsry
 acută	acut	Afpfsrn
-entero-mezenterică	(0.89)entero-mezenteric	Afpfsrn
+entero-mezenterică	entero-mezenteric	Afpfsrn
 reprezintă	reprezenta	Vmip3
 o	un	Tifsr
 complicație	complicație	Ncfsrn
@@ -9218,7 +9218,7 @@ rară	rar	Afpfsrn
 de	de	Spsa
 regulă	regulă	Ncfsrn
 a	al	Tsfs
-arterosclerozei	(0.71)arteroscleroză	Ncfsoy
+arterosclerozei	arteroscleroză	Ncfsoy
 ,	,	COMMA
 reprezentând	reprezenta	Vmg
 1-2	1-2	Mc-p-d
@@ -9262,7 +9262,7 @@ periferică	periferic	Afpfsrn
 în	în	Spsa
 cadrul	cadru	Ncmsry
 bolii	boală	Ncfsoy
-aorto-iliace	(0.75)aorto-iliac	Afpfson
+aorto-iliace	aorto-iliac	Afpfson
 tip	tip	Ncms-n
 III	III	Mc
 și	și	Crssp
@@ -9283,7 +9283,7 @@ selectivă	selectiv	Afpfsrn
 angiografia	angiografie	Ncfsry
 cu	cu	Spsa
 substrație	substrație	Ncfsrn
-digitalică	(0.89)digitalic	Afpfsrn
+digitalică	digitalic	Afpfsrn
 constituie	constitui	Vmip3
 încă	încă	Rgp
 standardul	standard	Ncmsry
@@ -9304,7 +9304,7 @@ identifica	identifica	Vmnp
 ischemia	ischemie	Ncfsry
 acută	acut	Afpfsrn
 mezenterică	mezenteric	Afpfsrn
-non-ocluzivă	(0.89)non-ocluziv	Afpfsrn
+non-ocluzivă	non-ocluziv	Afpfsrn
 și	și	Crssp
 furnizează	furniza	Vmip3
 informații	informație	Ncfp-n
@@ -9326,13 +9326,13 @@ metodă	metodă	Ncfsrn
 principală	principal	Afpfsrn
 de	de	Spsa
 tratament	tratament	Ncms-n
-anticoagularea	(0.82)anticoagulare	Ncfsry
+anticoagularea	anticoagulare	Ncfsry
 cu	cu	Spsa
 heparină	heparină	Ncfsrn
 .	.	PERIOD
 
 Stenoza	stenoză	Ncfsry
-luminală	(0.89)luminal	Afpfsrn
+luminală	luminal	Afpfsrn
 semnificativă	semnificativ	Afpfsrn
 hemodinamic	hemodinamic	Afpms-n
 determină	determina	Vmis3s
@@ -9348,7 +9348,7 @@ distribuție	distribuție	Ncfsrn
 .	.	PERIOD
 
 Majoritatea	majoritate	Ncfsry
-embolilor	(0.53)embol	Ncfpoy
+embolilor	embol	Ncfpoy
 rezultă	rezulta	Vmis3s
 din	din	Spsa
 activarea	activare	Ncfsry
@@ -9379,7 +9379,7 @@ se	sine	Px3--a--------w
 exprimă	exprima	Vmis3s
 în	în	Spsa
 momentul	moment	Ncmsry
-embolizării	(0.89)embolizare	Ncfsoy
+embolizării	embolizare	Ncfsoy
 distale	distal	Afpfp-n
 ,	,	COMMA
 la	la	Spsa
