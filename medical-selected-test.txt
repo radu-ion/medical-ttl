@@ -22557,7 +22557,7 @@ factorul	factor	Ncmsry
 )	)	RPAR
 de	de	Spsa
 inhibiție	inhibiție	Ncfsrn
-mulleriană	(0.89)mullerian	Afpfsrn
+mulleriană	mullerian	Afpfsrn
 (	(	LPAR
 MIH	MIH	Np
 sau	sau	Ccssp
@@ -22573,7 +22573,7 @@ Muller	Muller	Np
 .	.	PERIOD
 
 Tubii	Tubii	Np
-seminiferi	(0.89)seminifer	Afpmp-n
+seminiferi	seminifer	Afpmp-n
 adulți	adult	Ncmp-n
 ,	,	COMMA
 cu	cu	Spsa
@@ -22605,12 +22605,12 @@ prin	prin	Spsa
 prima	prima	Mofsrly
 meioză	meioză	Ncfsrn
 către	către	Spsa
-spermatocite	(0.57)spermatocită	Ncfp-n
+spermatocite	spermatocit	Ncfp-n
 secundare	secundar	Afpfp-n
 haploide	haploidă	Afpfp-n
 (	(	LPAR
 N	în	Spsay
-cromosomi	(0.57)cromosomie	Ncmp-n
+cromosomi	cromozom	Ncmp-n
 )	)	RPAR
 și	și	Crssp
 apoi	apoi	Rgp
@@ -22641,7 +22641,7 @@ de	de	Spsa
 SHBG	SHBG	Np
 (	(	LPAR
 sex	sex	Ncms-n
-hormone	(0.86)hormona	Vmm-2s
+hormone	hormone	Np
 binding	binding	Ncms-n
 globulin	globulin	Ncms-n
 globulina	globulină	Ncfsry
@@ -22675,7 +22675,7 @@ angiotensină	angiotensină	Ncfsrn
 ,	,	COMMA
 b-endorfină	b-endorfină	Ncfsrn
 ,	,	COMMA
-prostaglandine	(0.51)prostaglandină	Ncfp-n
+prostaglandine	prostaglandină	Ncfp-n
 ,	,	COMMA
 care	care	Pw3--r
 acționează	acționa	Vmip3
@@ -22685,7 +22685,7 @@ Sertoli	Sertoli	Np
 și	și	Crssp
 asupra	asupra	Spsg
 celulelor	celulă	Ncfpoy
-peritubulare	(0.89)peritubular	Afpfp-n
+peritubulare	peritubular	Afpfp-n
 .	.	PERIOD
 
 Testosteronul	testosteron	Ncmsry
@@ -22721,14 +22721,14 @@ dintre	dintre	Spsa
 proteinele	proteină	Ncfpry
 vectoare	vectoare	Afpfp-n
 și	și	Crssp
-glicocalixul	(0.82)glicocalix	Afpmsry
+glicocalixul	glicocalix	Afpmsry
 endotelial	endotelial	Afpms-n
 .	.	PERIOD
 
 La	la	Spsa
 subiecții	subiect	Ncmpry
 cu	cu	Spsa
-mozaicisme	(0.57)mozaicism	Ncfp-n
+mozaicisme	mozaicism	Ncfp-n
 ,	,	COMMA
 la	la	Spsa
 care	care	Pw3--r
@@ -22772,7 +22772,7 @@ confluează	conflua	Vmip3
 realizând	realiza	Vmg
 o	un	Tifsr
 cavitate	cavitate	Ncfsrn
-antrul	(0.82)antru	Ncmsry
+antrul	antru	Ncmsry
 folicular	folicular	Afpms-n
 în	în	Spsa
 care	care	Pw3--r
@@ -22795,7 +22795,7 @@ proliger	(WF)proliger	Afpms-n
 Există	exista	Vmis3s
 o	un	Tifsr
 creștere	creștere	Ncfsrn
-preovulatorie	(0.89)preovulatoriu	Afpfsrn
+preovulatorie	preovulatoriu	Afpfsrn
 a	al	Tsfs
 progesteronului	progesteron	Ncmsoy
 cu	cu	Spsa
@@ -22853,7 +22853,7 @@ exponențial	exponențial	Afpms-n
 
 IGF-1	IGF-1	Np
 (	(	LPAR
-somatomedina	(0.64)somatomedină	Ncfsry
+somatomedina	somatomedină	Ncfsry
 C	C	Yn
 )	)	RPAR
 stimulează	stimula	Vmip3
@@ -22872,7 +22872,7 @@ menstruației	menstruație	Ncfsoy
 Succesiunea	succesiune	Ncfsry
 regulată	regulat	Afpfsrn
 a	al	Tsfs
-menstrelor	(0.54)menstru	Ncfpoy
+menstrelor	menstră	Ncfpoy
 documentează	documenta	Vmip3
 cu	cu	Spsa
 rare	rar	Afpfp-n
@@ -22917,7 +22917,7 @@ sânge	sânge	Ncms-n
 ,	,	COMMA
 sub	sub	Spsa
 forma	formă	Ncfsry
-menstrei	(0.71)menstră	Ncfsoy
+menstrei	menstră	Ncfsoy
 .	.	PERIOD
 
 Preovulator	Preovulator	Np
@@ -22939,7 +22939,7 @@ cristalizare	cristalizare	Ncfsrn
 specifică	specific	Afpfsrn
 (	(	LPAR
 vezi	vedea	Vmip2s
-infra	(0.64)infră	Ncfsry
+infra	infra	Np
 )	)	RPAR
 .	.	PERIOD
 
@@ -22952,9 +22952,9 @@ sexuale	sexual	Afpfp-n
 secundare	secundar	Afpfp-n
 și	și	Crssp
 apariția	apariție	Ncfsry
-menstrelor	(0.54)menstru	Ncfpoy
+menstrelor	menstră	Ncfpoy
 este	fi	Vmip3s
-adminsitrarea	(0.82)adminsitrare	Ncfsry
+administrarea	administrare	Ncfsry
 ciclică	ciclic	Afpfsrn
 de	de	Spsa
 estrogeni	estrogen	Afpmp-n
@@ -22975,7 +22975,7 @@ progesteron	progesteron	Ncms-n
 Sindromul	sindrom	Ncmsry
 Turner	Turner	Np
 disgenezia	disgenezie	Ncfsry
-gonadală	(0.89)gonadal	Afpfsrn
+gonadală	gonadal	Afpfsrn
 cu	cu	Spsa
 cariotip	cariotip	Ncms-n
 45X	45X	Np
@@ -22991,7 +22991,7 @@ poate	poate	Rgp
 ameliora	ameliora	Vmii3s
 receptivitatea	receptivitate	Ncfsry
 la	la	Spsa
-gonadotrofine	(0.44)gonadotrofiană	Ncfp-n
+gonadotrofine	gonadotrofină	Ncfp-n
 exogene	exogen	Afpfp-n
 și	și	Crssp
 se	sine	Px3--a--------w
@@ -23029,7 +23029,7 @@ ce	ce	Pw3--r
 subiecții	subiect	Ncmpry
 cu	cu	Spsa
 disgenezii	disgenezie	Ncfp-n
-gonadice	(0.89)gonadic	Afpfp-n
+gonadice	gonadic	Afpfp-n
 (	(	LPAR
 ex.	ex.	Yn
 sindrom	sindrom	Ncms-n
@@ -23044,7 +23044,7 @@ niveluri	nivel	Ncfp-n
 mai	mai	Rp
 mari	mare	Afp-p-n
 ale	al	Tsfp
-gonadotrofinelor	(0.71)gonadotrofină	Ncfpoy
+gonadotrofinelor	gonadotrofină	Ncfpoy
 decât	decât	Rc
 subiecții	subiect	Ncmpry
 normali	normal	Afpmp-n
@@ -23069,7 +23069,7 @@ de	de	Spsa
 doze	doză	Ncfp-n
 mari	mare	Afp-p-n
 de	de	Spsa
-progestative	(0.56)progestativ	Ncfp-n
+progestative	progestativ	Ncfp-n
 de	de	Spsa
 sinteză	sinteză	Ncfsrn
 de	de	Spsa
@@ -23110,7 +23110,7 @@ zi	zi	Ncfsrn
 Ovarul	ovar	Ncmsry
 din	din	Spsa
 perioada	perioadă	Ncfsry
-menopauzală	(0.89)menopauzal	Afpfsrn
+menopauzală	menopauzal	Afpfsrn
 se	sine	Px3--a--------w
 caracterizează	caracteriza	Vmip3
 prin	prin	Spsa
@@ -23139,7 +23139,7 @@ al	al	Tsms
 cancerelor	cancer	Ncfpoy
 de	de	Spsa
 sân	sân	Ncms-n
-estrogen-dependente	(0.89)estrogen-dependent	Afpfp-n
+estrogen-dependente	estrogen-dependent	Afpfp-n
 .	.	PERIOD
 
 Terapia	terapie	Ncfsry
@@ -23163,7 +23163,7 @@ cu	cu	Spsa
 progesteron	progesteron	Ncms-n
 natural	natural	Afpms-n
 sau	sau	Ccssp
-progestative	(0.75)progestativ	Afpfson
+progestative	progestativ	Afpfson
 de	de	Spsa
 sinteză	sinteză	Ncfsrn
 cu	cu	Spsa
@@ -23192,7 +23192,7 @@ exclusiv	exclusiv	Rgp
 progesteron	progesteron	Ncms-n
 natural	natural	Afpms-n
 sau	sau	Ccssp
-progestative	(0.75)progestativ	Afpfson
+progestative	progestativ	Afpfson
 de	de	Spsa
 sinteză	sinteză	Ncfsrn
 (	(	LPAR
@@ -23209,7 +23209,7 @@ Aceste	acest	Dd3fpr---e
 substanțe	substanță	Ncfp-n
 au	avea	Va--3p
 acțiune	acțiune	Ncfsrn
-antiestrogenică	(0.89)antiestrogenic	Afpfsrn
+antiestrogenică	antiestrogenic	Afpfsrn
 și	și	Crssp
 ,	,	COMMA
 prin	prin	Spsa
@@ -23238,7 +23238,7 @@ determinate	determina	Vmp--pf
 de	de	Spsa
 prezența	prezență	Ncfsry
 autoanticorpilor	autoanticorp	Ncmpoy
-antispermozoizi	(0.93)antispermozoid	Afpmp-n
+antispermozoizi	antispermozoid	Afpmp-n
 ,	,	COMMA
 terapia	terapie	Ncfsry
 cu	cu	Spsa
@@ -23291,10 +23291,10 @@ potențialului	potențial	Ncmsoy
 erectil	erectil	Afpms-n
 prin	prin	Spsa
 injectare	injectare	Ncfsrn
-intracavernoasă	(0.52)intracavernoas	Afpfsrn
+intracavernoasă	intracavernos	Afpfsrn
 de	de	Spsa
 droguri	drog	Ncfp-n
-erectogene	(0.89)erectogen	Afpfp-n
+erectogene	erectogen	Afpfp-n
 (	(	LPAR
 papaverină	papaverină	Ncfsrn
 ,	,	COMMA
@@ -23329,7 +23329,7 @@ largă	larg	Afpfsrn
 utilizare	utilizare	Ncfsrn
 actuală	actual	Afpfsrn
 este	fi	Vmip3s
-alprostadilul	(0.64)alprostadil	Ncmsry
+alprostadilul	alprostadil	Ncmsry
 (	(	LPAR
 PgE1	PgE1	Np
 )	)	RPAR
@@ -23349,7 +23349,7 @@ apărea	apărea	Vmnp
 în	în	Spsa
 asociere	asociere	Ncfsrn
 cu	cu	Spsa
-gastrinoame	(0.7)gastrinoamă	Ncfp-n
+gastrinoame	gastrinom	Ncfp-n
 ,	,	COMMA
 concomitent	concomitent	Rgp
 sau	sau	Ccssp
@@ -23360,7 +23360,7 @@ TUMORI	tumoare	Ncfp-n
 CARCINOIDE	CARCINOIDE	Np
 localizate	localiza	Vmp--pf
 în	în	Spsa
-bronșii	(0.92)brons	Afpmpry
+bronșii	bronșie	Ncfprn
 ,	,	COMMA
 la	la	Spsa
 nivelul	nivel	Ncmsry
@@ -23413,12 +23413,12 @@ de	de	Spsa
 mutații	mutație	Ncfp-n
 germinale	germinal	Afpfp-n
 ale	al	Tsfp
-proto-oncogenei	(0.52)proto-oncogean	Afpfsoy
+proto-oncogenei	proto-oncogenă	Ncfsoy
 RET	RET	Np
 (	(	LPAR
 în	în	Spsa
 regiunea	regiune	Ncfsry
-pericentromerică	(0.89)pericentromeric	Afpfsrn
+pericentromerică	pericentromeric	Afpfsrn
 a	al	Tsfs
 cromosomului	cromozom	Ncmsoy
 10	10	Mc
@@ -23444,7 +23444,7 @@ tumoră	tumoră	Ncfsrn
 a	al	Tsfs
 celulelor	celulă	Ncfpoy
 tiroidiene	tiroidian	Afpfp-n
-parafoliculare	(0.75)parafolicular	Afpfson
+parafoliculare	parafolicular	Afpfson
 C	C	Ncm--n
 ,	,	COMMA
 producătoare	producător	Afpf--n
@@ -23483,7 +23483,7 @@ hiperplazie	hiperplazie	Ncfsrn
 decât	decât	Rc
 o	un	Tifsr
 dezvoltare	dezvoltare	Ncfsrn
-adenomatoasă	(0.52)adenomatoas	Afpfsrn
+adenomatoasă	adenomatos	Afpfsrn
 a	al	Tsfs
 paratiroidelor	paratiroidă	Afpfpoy
 .	.	PERIOD
@@ -23492,7 +23492,7 @@ Neurinoamele	Neurinoamele	Np
 au	avea	Vmip3p
 o	un	Tifsr
 distribuție	distribuție	Ncfsrn
-centrofacială	(0.89)centrofacial	Afpfsrn
+centrofacială	centrofacial	Afpfsrn
 și	și	Crssp
 apar	apărea	Vmip3p
 foarte	foarte	Rp
@@ -23516,7 +23516,7 @@ pancreatice	pancreatic	Afpfson
 ,	,	COMMA
 MTC	MTC	Np
 sau	sau	Ccssp
-neurinoame	(0.7)neurinoamă	Ncfp-n
+neurinoame	neurinom	Ncfp-n
 mucoase	mucos	Afpfp-n
 ,	,	COMMA
 screening	screening	Nc,Ncm,Nc---n,Ncf--n,Ncf--ny,Ncm--n,Etd,Eqy,Eqt,Eqd,Eqa,Eqm,Eqv,Eid
@@ -23538,7 +23538,7 @@ obligatoriu	obligatoriu	Rgp
 Mutațiile	mutație	Ncfpry
 depistate	depista	Vmp--pf
 pe	pe	Spsa
-cromosomii	(0.7)cromosomie	Ncfp-n
+cromosomii	cromozom	Ncmpry
 11	11	Mc
 și	și	Crssp
 10	10	Mc
@@ -23546,7 +23546,7 @@ prin	prin	Spsa
 tehnici	tehnică	Ncfp-n
 PCR	PCR	Yn
 și	și	Crssp
-linkage	(0.82)linkaga	Vmip3s
+linkage	linkage	Np
 analysis	analysis	Np
 pot	putea	Vmip3p
 extinde	extinde	Vmnp
@@ -23565,7 +23565,7 @@ asimptomatice	asimptomatic	Afpfp-n
 .	.	PERIOD
 
 ADA	Ada	Np
-recunoaște	(0.79)recunoaști	Vmip3s
+recunoaște	recunoaște	Vmip3s
 și	și	Crssp
 anticipează	anticipa	Vmip3
 creșterea	creștere	Ncfsry
@@ -23579,7 +23579,7 @@ criterii	criteriu	Ncfp-n
 de	de	Spsa
 diagnostic	diagnostic	Ncms-n
 și	și	Crssp
-recunoaște	(0.79)recunoaști	Vmip3s
+recunoaște	recunoaște	Vmip3s
 că	că	Csssp
 se	sine	Px3--a--------w
 poate	putea	Vmip3s
@@ -23597,7 +23597,7 @@ normale	normal	Afpfp-n
 .	.	PERIOD
 
 Se	sine	Px3--a--------w
-recunoaște	(0.79)recunoaști	Vmip3s
+recunoaște	recunoaște	Vmip3s
 ,	,	COMMA
 de	de	Spsa
 asemenea	asemenea	Afp
@@ -23656,7 +23656,7 @@ trebuie	trebui	Vmip3
 urmărite	urmări	Vmp--pf
 pentru	pentru	Spsa
 depistarea	depistare	Ncfsry
-prediabetului	(0.71)prediabet	Ncmsoy
+prediabetului	prediabet	Ncmsoy
 sau	sau	Ccssp
 diabetului	diabet	Ncmsoy
 la	la	Spsa
@@ -23674,9 +23674,9 @@ B	B	Yn
 
 Confirmarea	confirmare	Ncfsry
 valorilor	valoare	Ncfpoy
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 a	avea	Va--3s
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 >	>	GT
 126mg	126mg	Yn
 /	/	SLASH
@@ -23744,7 +23744,7 @@ de	de	Spsa
 DZG	DZG	Np
 la	la	Spsa
 care	care	Pw3--r
-screningul	(0.64)screning	Ncmsry
+screeningul	screening	Ncmsry
 se	sine	Px3--a--------w
 face	face	Vmip3s
 inițial	inițial	Rgp
@@ -23772,7 +23772,7 @@ normal	normal	Rgp
 În	în	Spsa
 cazul	caz	Ncmsry
 anemiei	anemie	Ncfsoy
-feriprive	(0.57)feriprivă	Ncfp-n
+feriprive	feripriv	Ncfp-n
 ,	,	COMMA
 frecventă	frecvent	Afpfsrn
 în	în	Spsa
@@ -23869,7 +23869,7 @@ asigura	asigura	Vmnp
 controlul	control	Ncmsry
 glicemic	glicemic	Afpms-n
 ,	,	COMMA
-urmatorul	(0.82)urmator	Afpmsry
+următorul	următor	Afpmsry
 pas	pas	Ncms-n
 în	în	Spsa
 managementul	management	Ncmsry
@@ -23889,7 +23889,7 @@ DZG	DZG	Np
 ale	al	Tsfp
 căror	care	Dw3-po---e
 niveluri	nivel	Ncfp-n
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 depășesc	depăși	Vmip3p
 țintele	țintă	Ncfpry
 terapeutice	terapeutic	Afpfp-n
@@ -23913,7 +23913,7 @@ DZG	DZG	Np
 ,	,	COMMA
 cu	cu	Spsa
 vârsta	vârstă	Ncfsry
-gestațională	(0.89)gestațional	Afpfsrn
+gestațională	gestațional	Afpfsrn
 cuprinsă	cuprinde	Vmp--sf
 între	între	Spsa
 20	20	Mc
@@ -23989,7 +23989,7 @@ a	al	Tsfs
 fătului	făt	Ncmsoy
 la	la	Spsa
 acțiunea	acțiune	Ncfsry
-hipotensoare	(0.89)hipotensoaru	Afpfsrn
+hipotensoare	hipotensor	Afpfsrn
 a	al	Tsfs
 acestor	acest	Dd3-po---e
 două	două	Mcfp-l
@@ -24012,7 +24012,7 @@ expuși	expus	Afpmp-n
 la	la	Spsa
 tratamentul	tratament	Ncmsry
 cu	cu	Spsa
-betablocante	(0.57)betablocantă	Ncfp-n
+betablocante	betablocant	Ncfp-n
 și	și	Crssp
 poate	putea	Vmip3s
 duce	duce	Vmnp
@@ -24028,7 +24028,7 @@ greutate	greutate	Ncfsrn
 mică	mic	Afpfsrn
 pentru	pentru	Spsa
 vârsta	vârstă	Ncfsry
-gestațională	(0.89)gestațional	Afpfsrn
+gestațională	gestațional	Afpfsrn
 [	[	LSQR
 77	77	Mc
 ]	]	RSQR
@@ -24079,7 +24079,7 @@ există	exista	Vmis3s
 indicație	indicație	Ncfsrn
 pentru	pentru	Spsa
 administrarea	administrare	Ncfsry
-statinelor	(0.71)statină	Ncfpoy
+statinelor	statină	Ncfpoy
 la	la	Spsa
 gravide	gravidă	Ncfp-n
 .	.	PERIOD
@@ -24087,7 +24087,7 @@ gravide	gravidă	Ncfp-n
 Administrarea	administrare	Ncfsry
 corticosteroizilor	corticosteroid	Ncmpoy
 pacientelor	pacientă	Ncfpoy
-insulinotratate	(0.89)insulinotratat	Afpfp-n
+insulinotratate	insulinotrata	Vmp--pf
 poate	putea	Vmip3s
 duce	duce	Vmnp
 la	la	Spsa
@@ -24123,7 +24123,7 @@ pentru	pentru	Spsa
 a	a	Qn
 menține	menține	Vmnp
 valorile	valoare	Ncfpry
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 între	între	Spsa
 70-126	70-126	Mc
 mg	mg	Yn
@@ -24158,7 +24158,7 @@ va	vrea	Va--3s
 administra	administra	Vmnp
 tratamentul	tratament	Ncmsry
 antidiabetic	antidiabetic	Afpms-n
-dimineata	(0.45)dimineată	Ncfsry
+dimineața	dimineață	Ncfsry
 ,	,	COMMA
 se	sine	Px3--a--------w
 va	vrea	Va--3s
@@ -24271,7 +24271,7 @@ că	că	Csssp
 aceasta	acesta	Pd3fsr
 se	sine	Px3--a--------w
 datora	datora	Vmii3s
-oligomerizării	(0.89)oligomerizare	Ncfsoy
+oligomerizării	oligomerizare	Ncfsoy
 și	și	Crssp
 că	că	Csssp
 greutatea	greutate	Ncfsry
@@ -24328,12 +24328,12 @@ se	sine	Px3--a--------w
 producă	produce	Vmsp3
 asocierea	asociere	Ncfsry
 în	în	Spsa
-hexameri	(0.56)hexame	Ncmp-n
+hexameri	hexamer	Ncmp-n
 .	.	PERIOD
 
 Unele	un	Di3fpr---e
 caracteristici	caracteristică	Ncfp-n
-electrofiziologice	(0.89)electrofiziologic	Afpfp-n
+electrofiziologice	electrofiziologic	Afpfp-n
 ale	al	Tsfp
 celulelor	celulă	Ncfpoy
 mature	matur	Afpfp-n
@@ -24401,7 +24401,7 @@ efect	efect	Ncms-n
 chemotactic	(WF)chemotactic	Afpms-n
 pentru	pentru	Spsa
 celulele	celulă	Ncfpry
-proinflamatoare	(0.93)proinflamator	Afpfp-n
+proinflamatoare	proinflamator	Afpfp-n
 (	(	LPAR
 7	7	Mc
 )	)	RPAR
@@ -24436,7 +24436,7 @@ W	W	Yn
 1965	1965	Mc
 ca	ca	Rc
 și	și	Crssp
-insulită	(0.89)insulit	Afpfsrn
+insulită	insulită	Ncfsrn
 ,	,	COMMA
 adică	adică	Rgp
 13	13	Mc
@@ -24473,7 +24473,7 @@ celulei	celulă	Ncfsoy
 și	și	Crssp
 formarea	formare	Ncfsry
 corpilor	corp	Ncmpoy
-apoptotici	(0.89)apoptotic	Afpmp-n
+apoptotici	apoptotic	Afpmp-n
 care	care	Pw3--r
 sunt	fi	Vmip3p
 apoi	apoi	Rgp
@@ -24527,7 +24527,7 @@ celelalte	celălalt	Dd3fpr
 celule	celulă	Ncfp-n
 endocrine	endocrin	Afpfp-n
 și	și	Crssp
-acinii	(0.59)acian	Ncmpry
+acinii	acin	Ncmpry
 exocrini	exocrin	Afpmp-n
 în	în	Spsa
 aval	aval	Rgp
@@ -24550,10 +24550,10 @@ trofic	trofic	Afpms-n
 al	al	Tsms
 insulinei	insulină	Ncfsoy
 asupra	asupra	Spsg
-acinilor	(0.53)acian	Ncfpoy
+acinilor	acin	Ncfpoy
 exocrini	exocrin	Afpmp-n
 și	și	Crssp
-supresia	(0.82)supresie	Ncfsry
+supresia	supresie	Ncfsry
 secreției	secreție	Ncfsoy
 de	de	Spsa
 glucagon	glucagon	Ncms-n
@@ -24569,7 +24569,7 @@ pancreasului	pancreas	Ncmsoy
 exocrin	exocrin	Afpms-n
 și	și	Crssp
 lipsa	lipsă	Ncfsry
-supresiei	(0.89)supresie	Ncfsoy
+supresiei	supresie	Ncfsoy
 secreției	secreție	Ncfsoy
 de	de	Spsa
 glucagon	glucagon	Ncms-n
@@ -24646,7 +24646,7 @@ dintre	dintre	Spsa
 acești	acest	Dd3mpr---e
 pacienți	pacient	Ncmp-n
 au	avea	Va--3p
-alelele	(0.76)alelă	Ncfpvy
+alelele	alelă	Ncfpry
 DR3	DR3	Np
 și	și	Crssp
 /	/	SLASH
@@ -24704,18 +24704,18 @@ polipeptid	polipeptid	Ncms-n
 fibrilar	fibrilar	Afpms-n
 denumit	denumit	Afpms-n
 "	"	DBLQ
-polipeptidul	(0.64)polipeptid	Ncmsry
+polipeptidul	polipeptid	Ncmsry
 insular	insular	Afpms-n
 amiloid	amiloid	Afpms-n
 "	"	DBLQ
 sau	sau	Ccssp
 "	"	DBLQ
-amilina	(0.64)amilină	Ncfsry
+amilina	amilină	Ncfsry
 "	"	DBLQ
 .	.	PERIOD
 
 Cristalizarea	cristalizare	Ncfsry
-hexamerică	(0.89)hexameric	Afpfsrn
+hexamerică	hexameric	Afpfsrn
 a	al	Tsfs
 insulinei	insulină	Ncfsoy
 are	avea	Vmip3s
@@ -24751,7 +24751,7 @@ revin	reveni	Vmip3p
 transcripției	transcripție	Ncfsoy
 și	și	Crssp
 scindării	scindare	Ncfsoy
-preproinsulinei	(0.71)preproinsulină	Ncfsoy
+preproinsulinei	preproinsulină	Ncfsoy
 în	în	Spsa
 proinsulină	proinsulină	Ncfsrn
 ,	,	COMMA
@@ -24788,10 +24788,10 @@ celulele	celulă	Ncfpry
 spațiul	spațiu	Ncmsry
 interstițial	interstițial	Afpms-n
 este	fi	Vmip3s
-exocitoza	(0.64)exocitoză	Ncfsry
+exocitoza	exocitoză	Ncfsry
 Ca2	Ca2	Np
 +	+	PLUS
--dependentă	(0.62)-dependent	Afpfsrn
+-dependentă	-dependent	Afpfsrn
 a	al	Tsfs
 granulelor	granulă	Ncfpoy
 secretorii	secretor	Afpmpry
@@ -24835,7 +24835,7 @@ răspunde	răspunde	Vmnp
 la	la	Spsa
 alți	alt	Di3mpr---e
 stimuli	stimul	Ncmp-n
-electrogenici	(0.89)electrogenic	Afpmp-n
+electrogenici	electrogenic	Afpmp-n
 cum	cum	Rw
 este	fi	Vmip3s
 arginina	arginină	Ncfsry
@@ -24866,7 +24866,7 @@ efect	efect	Ncms-n
 devine	deveni	Vmip3s
 major	major	Afpms-n
 la	la	Spsa
-concetrații	(0.59)concetrat	Ncmpry
+concentrații	concentrație	Ncfprn
 mari	mare	Afp-p-n
 ale	al	Tsfp
 glucozei	glucoză	Ncfsoy
@@ -24894,7 +24894,7 @@ de	de	Spsa
 proteine	proteină	Ncfp-n
 din	din	Spsa
 familia	familie	Ncfsry
-synaptotagminelor	(0.71)synaptotagmină	Ncfpoy
+synaptotagminelor	synaptotagmină	Ncfpoy
 ar	avea	Va--3
 putea	putea	Vmnp
 juca	juca	Vmnp
@@ -24916,7 +24916,7 @@ din	din	Spsa
 gena	genă	Ncfsry
 care	care	Pw3--r
 codifica	codifica	Vmii3s
-syntaxina	(0.64)syntaxină	Ncfsry
+syntaxina	syntaxină	Ncfsry
 s-	sine	Px3--a--y-----w
 a	avea	Va--3s
 dovedit	dovedi	Vmp--sm
@@ -24970,7 +24970,7 @@ spre	spre	Spsa
 membrana	membrană	Ncfsry
 celulară	celular	Afpfsrn
 sunt	fi	Vaip3p
-glicate	(0.67)glica	Vmp--pf
+glicate	glica	Vmp--pf
 și	și	Crssp
 acilate	acilat	Afpfp-n
 .	.	PERIOD
@@ -24993,7 +24993,7 @@ fi	fi	Vanp
 implicată	implica	Vmp--sf
 în	în	Spsa
 activitatea	activitate	Ncfsry
-mitogenă	(0.89)mitogen	Afpfsrn
+mitogenă	mitogen	Afpfsrn
 a	al	Tsfs
 receptorului	receptor	Afpmsoy
 (	(	LPAR
@@ -25003,7 +25003,7 @@ receptorului	receptor	Afpmsoy
 
 Insulina	insulină	Ncfsry
 inhibă	inhiba	Vmis3s
-gluconeogeneza	(0.64)gluconeogeneză	Ncfsry
+gluconeogeneza	gluconeogeneză	Ncfsry
 la	la	Spsa
 nivelul	nivel	Ncmsry
 ficatului	ficat	Ncmsoy
@@ -25079,10 +25079,10 @@ fosforilare	fosforilare	Ncfsrn
 și	și	Crssp
 o	un	Tifsr
 secvență	secvență	Ncfsrn
-aminoacidică	(0.89)aminoacidic	Afpfsrn
+aminoacidică	aminoacidic	Afpfsrn
 care	care	Pw3--r
 facilitează	facilita	Vmip3
-endocitoza	(0.64)endocitoză	Ncfsry
+endocitoza	endocitoză	Ncfsry
 rapidă	rapid	Afpfsrn
 a	al	Tsfs
 transportorului	transportor	Ncmsoy
@@ -25117,7 +25117,7 @@ El	el	Pp3msr--------s
 este	fi	Vaip3s
 depozitat	depozita	Vmp--sm
 în	în	Spsa
-organite	(0.57)organică	Ncfp-n
+organite	organit	Ncfp-n
 specifice	specific	Afpfp-n
 ,	,	COMMA
 veziculele	veziculă	Ncfpry
@@ -25169,7 +25169,7 @@ de	de	Spsa
 tipuri	tip	Ncfp-n
 de	de	Spsa
 mARN	mARN	Np
-hepatocitare	(0.57)hepatocitară	Ncfp-n
+hepatocitare	hepatocitar	Afpfp-n
 evaluate	evaluat	Afpfp-n
 ,	,	COMMA
 la	la	Spsa
@@ -25216,7 +25216,7 @@ proteică	proteic	Afpfsrn
 a	al	Tsfs
 glicogenului	glicogen	Ncmsoy
 ,	,	COMMA
-glicogenina	(0.64)glicogenină	Ncfsry
+glicogenina	glicogenină	Ncfsry
 .	.	PERIOD
 
 Pe	pe	Spsa
@@ -25225,7 +25225,7 @@ altă	alt	Di3fsr---e
 parte	parte	Ncfsrn
 ,	,	COMMA
 hormoni	hormon	Ncmp-n
-glicogenolitici	(0.89)glicogenolitic	Afpmp-n
+glicogenolitici	glicogenolitic	Afpmp-n
 ,	,	COMMA
 cum	cum	Rw
 este	fi	Vmip3s
@@ -25235,12 +25235,12 @@ pot	putea	Vmip3p
 produce	produce	Vmnp
 fosforilarea	fosforilare	Ncfsry
 glicogen	glicogen	Ncms-n
-sintazei	(0.71)sintază	Ncfsoy
+sintazei	sintază	Ncfsoy
 prin	prin	Spsa
 creșterea	creștere	Ncfsry
 concentrației	concentrație	Ncfsoy
 de	de	Spsa
-kinaze	(0.7)kinază	Ncfp-n
+kinaze	kinază	Ncfp-n
 cAMP-dependente	cAMP-dependente	Np
 .	.	PERIOD
 
@@ -25259,13 +25259,13 @@ ceea	acela	Pd3fsr
 ce	ce	Pw3--r
 privește	privi	Vmip3s
 secvența	secvență	Ncfsry
-aminoacidică	(0.89)aminoacidic	Afpfsrn
+aminoacidică	aminoacidic	Afpfsrn
 și	și	Crssp
 deși	deși	Csssp
 ambele	ambele	Mlfpr
 molecule	moleculă	Ncfp-n
 sunt	fi	Vmip3p
-monocatenare	(0.89)monocatenar	Afpfp-n
+monocatenare	monocatenar	Afpfp-n
 ,	,	COMMA
 ele	el	Pp3fpr--------s
 seamănă	semăna	Vmip3
@@ -25278,7 +25278,7 @@ prezența	prezență	Ncfsry
 a	al	Tsfs
 trei	trei	Mc-p-l
 punți	punte	Ncfp-n
-disulfidice	(0.89)disulfidic	Afpfp-n
+disulfidice	disulfidic	Afpfp-n
 și	și	Crssp
 prin	prin	Spsa
 faptul	fapt	Ncmsry
@@ -25294,7 +25294,7 @@ B	B	Yn
 C	C	Yn
 (	(	LPAR
 corespunzător	corespunzător	Afpms-n
-peptidului	(0.71)peptid	Ncmsoy
+peptidului	peptid	Ncmsoy
 C	C	Yn
 )	)	RPAR
 .	.	PERIOD
@@ -25315,7 +25315,7 @@ induce	induce	Vmnp
 modificări	modificare	Ncfp-n
 în	în	Spsa
 secvența	secvență	Ncfsry
-aminoacidică	(0.89)aminoacidic	Afpfsrn
+aminoacidică	aminoacidic	Afpfsrn
 a	al	Tsfs
 lanțului	lanț	Ncmsoy
 ß	ß	X
@@ -25335,7 +25335,7 @@ a	a	Qn
 accepta	accepta	Vmnp
 și	și	Crssp
 prezenta	prezenta	Vmnp
-autoantigeni	(0.93)autoantigan	Afpmp-n
+autoantigeni	autoantigen	Ncmp-n
 derivați	derivat	Ncmp-n
 din	din	Spsa
 celulele	celulă	Ncfpry
@@ -25364,7 +25364,7 @@ fost	fi	Vap--sm
 descris	descrie	Vmp--sm
 ca	ca	Rc
 "	"	DBLQ
-insulită	(0.89)insulit	Afpfsrn
+insulită	insulită	Ncfsrn
 "	"	DBLQ
 ,	,	COMMA
 adică	adică	Rgp
@@ -25389,7 +25389,7 @@ an	an	Ncms-n
 după	după	Spsa
 debut	debut	Ncms-n
 ,	,	COMMA
-insulita	(0.45)insulită	Ncfsry
+insulita	insulită	Ncfsry
 este	fi	Vmip3s
 rar	rar	Rgp
 prezentă	prezent	Afpfsrn
@@ -25431,7 +25431,7 @@ Cu	cu	Spsa
 alte	alt	Di3fpr---e
 cuvinte	cuvânt	Ncfp-n
 ,	,	COMMA
-insulina	(0.85)insulină	Ncfsvy
+insulina	insulină	Ncfsvy
 ,	,	COMMA
 chiar	chiar	Rgp
 secretată	secreta	Vmp--sf
@@ -25490,7 +25490,7 @@ realizat	realizat	Afpms-n
 ,	,	COMMA
 iar	iar	Rc
 "	"	DBLQ
-insulino-fobia	(0.82)insulino-fobie	Ncfsry
+insulino-fobia	insulino-fobie	Ncfsry
 "	"	DBLQ
 rămâne	rămâne	Vmip3s
 încă	încă	Rgp
@@ -25578,7 +25578,7 @@ pentru	pentru	Spsa
 durata	durată	Ncfsry
 totală	total	Afpfsrn
 a	al	Tsfs
-actiunii	(0.89)actiune	Ncfsoy
+acțiunii	acțiune	Ncfsoy
 (	(	LPAR
 4_-_12	4_-_12	Mc
 ore	oră	Ncfp-n
@@ -25659,7 +25659,7 @@ explică	explica	Vmis3s
 importanta	important	Afpfsry
 variabilitate	variabilitate	Ncfsrn
 a	al	Tsfs
-famacocineticii	(0.89)famacocinetică	Ncfsoy
+famacocineticii	famacocinetică	Ncfsoy
 și	și	Crssp
 farmacodinamicii	farmacodinamică	Ncfsoy
 insulinelor	insulină	Ncfpoy
@@ -25733,7 +25733,7 @@ demonstrat	demonstra	Vmp--sm
 că	că	Csssp
 farmacodinamica	farmacodinamică	Ncfsry
 insulinei	insulină	Ncfsoy
-ultralente	(0.75)ultralent	Afpfson
+ultralente	ultralent	Afpfson
 ,	,	COMMA
 chiar	chiar	Rgp
 dacă	dacă	Csssp
@@ -25769,7 +25769,7 @@ produs	produce	Vmp--sm
 și	și	Crssp
 primul	primul	Momsrly
 amestec	amestec	Ncms-n
-premixat	(0.84)premixa	Vmp--sm
+premixat	premixa	Vmp--sm
 dintre	dintre	Spsa
 analogul	analog	Afpmsry
 de	de	Spsa
@@ -25794,7 +25794,7 @@ studiile	studiu	Ncfpry
 comparative	comparativ	Afpfp-n
 ,	,	COMMA
 insulinele	insulină	Ncfpry
-ultralente	(0.89)ultralent	Afpfp-n
+ultralente	ultralent	Afpfp-n
 nu	nu	Qz
 au	avea	Va--3p
 demonstrat	demonstra	Vmp--sm
@@ -25815,7 +25815,7 @@ riguroase	riguros	Afpfp-n
 în	în	Spsa
 domeniul	domeniu	Ncmsry
 perfuziei	perfuzie	Ncfsoy
-subcutane	(0.57)subcutană	Ncfp-n
+subcutane	subcutan	Afpfson
 continue	continuu	Afpfp-n
 de	de	Spsa
 insulină	insulină	Ncfsrn
@@ -25839,7 +25839,7 @@ insulină	insulină	Ncfsrn
 ,	,	COMMA
 combinată	combina	Vmp--sf
 cu	cu	Spsa
-auto-monitorizarea	(0.82)auto-monitorizare	Ncfsry
+auto-monitorizarea	auto-monitorizare	Ncfsry
 ,	,	COMMA
 într-	întru	Spsay
 un	un	Timsr
@@ -25889,7 +25889,7 @@ Dacă	dacă	Csssp
 se	sine	Px3--a--------w
 identifică	identifica	Vmis3s
 diferențe	diferență	Ncfp-n
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 mai	mai	Rp
 mari	mare	Afp-p-n
 de	de	Spsa
@@ -25947,7 +25947,7 @@ mare	mare	Afpfsrn
 ,	,	COMMA
 fie	fie	Ccssp
 de	de	Spsa
-bolusuri	(0.56)bolus	Ncfp-n
+bolusuri	bolus	Ncfp-n
 prandiale	prandial	Afpfp-n
 prea	prea	Rp
 mari	mare	Afp-p-n
@@ -25955,7 +25955,7 @@ mari	mare	Afp-p-n
 
 Folosirea	folosire	Ncfsry
 insulinelor	insulină	Ncfpoy
-premixate	(0.67)premixa	Vmp--pf
+premixate	premixa	Vmp--pf
 la	la	Spsa
 inițierea	inițiere	Ncfsry
 tratamentului	tratament	Ncmsoy
@@ -26011,7 +26011,7 @@ mici	mic	Afp-p-n
 ,	,	COMMA
 iar	iar	Rc
 insulinorezistența	insulinorezistență	Ncfsry
-post-hipoglicemică	(0.89)post-hipoglicemic	Afpfsrn
+post-hipoglicemică	post-hipoglicemic	Afpfsrn
 produce	produce	Vmip3s
 hiperglicemii	hiperglicemie	Ncfp-n
 în	în	Spsa
@@ -26040,7 +26040,7 @@ flexibile	flexibil	Afpfp-n
 eficiente	eficient	Afpfp-n
 sunt	fi	Vmip3p
 "	"	DBLQ
-algoritmurile	(0.55)algoritm	Ncfpry
+algoritmurile	algoritm	Ncfpry
 "	"	DBLQ
 de	de	Spsa
 ajustare	ajustare	Ncfsrn
@@ -26059,7 +26059,7 @@ corective	corectiv	Afpfp-n
 (	(	LPAR
 pentru	pentru	Spsa
 hiperglicemii	hiperglicemie	Ncfp-n
-interprandiale	(0.89)interprandial	Afpfp-n
+interprandiale	interprandial	Afpfp-n
 )	)	RPAR
 trebuie	trebui	Vmip3
 să	să	Qs
@@ -26096,7 +26096,7 @@ de	de	Spsa
 min.	min.	Yn
 pentru	pentru	Spsa
 glicemii	glicemie	Ncfp-n
-preprandiale	(0.89)preprandial	Afpfp-n
+preprandiale	preprandial	Afpfp-n
 de	de	Spsa
 80-140	80-140	Mc
 mg	mg	Yn
@@ -26176,7 +26176,7 @@ Evident	evident	Rgp
 cu	cu	Spsa
 cât	cât	Rw
 momentul	moment	Ncmsry
-determinarii	(0.59)determinare	Ncmpry
+determinării	determinare	Ncfsoy
 este	fi	Vmip3s
 mai	mai	Rp
 aproape	aproape	Rgp
@@ -26198,7 +26198,7 @@ insulină	insulină	Ncfsrn
 sistemele	sistem	Ncfpry
 de	de	Spsa
 automonitorizare	automonitorizare	Ncfsrn
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 disponibile	disponibil	Afpfp-n
 în	în	Spsa
 prezent	prezent	Ncms-n
@@ -26215,7 +26215,7 @@ tratamentului	tratament	Ncmsoy
 Sistemul	sistem	Ncmsry
 de	de	Spsa
 monitorizare	monitorizare	Ncfsrn
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 continuă	continuu	Afpfsrn
 este	fi	Vaip3s
 compus	compune	Vmp--sm
@@ -26310,7 +26310,7 @@ demonstra	demonstra	Vmnp
 corelația	corelație	Ncfsry
 între	între	Spsa
 alimentația	alimentație	Ncfsry
-hipercalorică	(0.89)hipercaloric	Afpfsrn
+hipercalorică	hipercaloric	Afpfsrn
 și	și	Crssp
 hiperglicemie	hiperglicemie	Ncfsrn
 ,	,	COMMA
@@ -26347,7 +26347,7 @@ se	sine	Px3--a--------w
 realizeze	realiza	Vmsp3
 în	în	Spsa
 perioada	perioadă	Ncfsry
-preconcepțională	(0.89)preconcepțional	Afpfsrn
+preconcepțională	preconcepțional	Afpfsrn
 .	.	PERIOD
 
 Treapta	treaptă	Ncfsry
@@ -26361,7 +26361,7 @@ regim	regim	Ncms-n
 C4	C4	Np
 sau	sau	Ccssp
 mai	mai	Rp
-milte	(0.75)milt	Afpfson
+multe	mult	Afpfson
 injecții	injecție	Ncfson
 ,	,	COMMA
 după	după	Spsa
@@ -26457,7 +26457,7 @@ mg	mg	Yn
 dl.	dl.	Yn
 La	la	Spsa
 valori	valoare	Ncfp-n
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 300	300	Mc
 mg	mg	Yn
 /	/	SLASH
@@ -26516,7 +26516,7 @@ insulină	insulină	Ncfsrn
 ,	,	COMMA
 cu	cu	Spsa
 monitorizarea	monitorizare	Ncfsry
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 .	.	PERIOD
 
 Studiul	studiu	Ncmsry
@@ -26551,7 +26551,7 @@ obține	obține	Vmnp
 și	și	Crssp
 menține	menține	Vmnp
 obiective	obiectiv	Ncfp-n
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 apropiate	apropia	Vmp--pf
 de	de	Spsa
 normal	normal	Rgp
@@ -26582,9 +26582,9 @@ secundară	secundar	Afpfsrn
 a	al	Tsfs
 complicațiilor	complicație	Ncfpoy
 tardive	tardiv	Afpfp-n
-microvasculare	(0.89)microvascular	Afpfp-n
+microvasculare	microvascular	Afpfp-n
 (	(	LPAR
-retinopatia	(0.89)retinopatie	Ncfsvy
+retinopatia	retinopatie	Ncfsvy
 ,	,	COMMA
 nefropatia	nefropatie	Ncfsry
 și	și	Crssp
@@ -26609,11 +26609,11 @@ echilibrul	echilibru	Ncmsry
 glicemic	glicemic	Afpms-n
 ,	,	COMMA
 în	în	Spsa
-etiopatogeneza	(0.64)etiopatogeneză	Ncfsry
+etiopatogeneza	etiopatogeneză	Ncfsry
 complicațiilor	complicație	Ncfpoy
-microvasculare	(0.89)microvascular	Afpfp-n
+microvasculare	microvascular	Afpfp-n
 și	și	Crssp
-macrovasculare	(0.89)macrovascular	Afpfp-n
+macrovasculare	macrovascular	Afpfp-n
 ale	al	Tsfp
 DZ	DZ	Np
 tip	tip	Ncms-n
@@ -26640,11 +26640,11 @@ absența	absență	Ncfsry
 primei	primei	Mofsoly
 faze	fază	Ncfson
 a	al	Tsfs
-insulinosecreției	(0.89)insulinosecreție	Ncfsoy
+insulinosecreției	insulinosecreție	Ncfsoy
 Pulsatilitatea	Pulsatilitatea	Np
 anormală	anormal	Afpfsrn
 a	al	Tsfs
-insulinosecreției	(0.89)insulinosecreție	Ncfsoy
+insulinosecreției	insulinosecreție	Ncfsoy
 Creșterea	creștere	Ncfsry
 secreției	secreție	Ncfsoy
 de	de	Spsa
@@ -26669,7 +26669,7 @@ având	avea	Vmg
 drept	drept	Spsa
 consecințe	consecință	Ncfp-n
 absența	absență	Ncfsry
-supresiei	(0.89)supresie	Ncfsoy
+supresiei	supresie	Ncfsoy
 producției	producție	Ncfsoy
 de	de	Spsa
 glucoză	glucoză	Ncfsrn
@@ -26696,11 +26696,11 @@ accentua	accentua	Vmnp
 deficitul	deficit	Ncmsry
 insulinosecretor	(WF)insulinosecretor	Afpms-n
 și	și	Crssp
-insulinosecreția	(0.82)insulinosecreție	Ncfsry
+insulinosecreția	insulinosecreție	Ncfsry
 ,	,	COMMA
 amplificând	amplifica	Vmg
 valorile	valoare	Ncfpry
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 .	.	PERIOD
 
 Pentru	pentru	Spsa
@@ -26716,12 +26716,12 @@ ei	lui	Ds3---s
 rezultând	rezulta	Vmg
 din	din	Spsa
 tratamentul	tratament	Ncmsry
-conditiilor	(0.71)conditie	Ncfpoy
+condițiilor	condiție	Ncfpoy
 anterioare	anterior	Afpfp-n
 .	.	PERIOD
 
 Hemoglobina	hemoglobină	Ncfsry
-glicată	(0.89)glicat	Afpfsrn
+glicată	glicat	Afpfsrn
 (	(	LPAR
 A1c	A1c	Np
 )	)	RPAR
@@ -26735,9 +26735,9 @@ terapiei	terapie	Ncfsoy
 .	.	PERIOD
 
 Efectele	efect	Ncfpry
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 ale	al	Tsfp
-monoterapiei	(0.89)monoterapie	Ncfsoy
+monoterapiei	monoterapie	Ncfsoy
 orale	oral	Afpfson
 și	și	Crssp
 ale	al	Tsfp
@@ -26784,7 +26784,7 @@ pacientului	pacient	Ncmsoy
 ,	,	COMMA
 evitând	evita	Vmg
 atât	atât	Rgp
-hipo	(0.66)hipă	Ncfsvy
+hipo	hipo	X
 cât	cât	Rw
 și	și	Crssp
 hiperglicemia	hiperglicemie	Ncfsry
@@ -26795,7 +26795,7 @@ cei	acela	Pd3mpr
 ce	ce	Pw3--r
 folosesc	folosi	Vmip3p
 insulina	insulină	Ncfsry
-premixată	(0.89)premixat	Afpfsrn
+premixată	premixa	Vmp--sf
 ,	,	COMMA
 doza	doză	Ncfsry
 de	de	Spsa
@@ -26837,7 +26837,7 @@ glucidic	glucidic	Afpms-n
 alimentar	alimentar	Afpms-n
 ,	,	COMMA
 ci	ci	Ccssp
-reajustrea	(0.82)reajustre	Ncfsry
+reajustarea	reajustare	Ncfsry
 rației	rație	Ncfsoy
 existente	existent	Afpfson
 ,	,	COMMA
@@ -26849,7 +26849,7 @@ gustărilor	gustare	Ncfpoy
 .	.	PERIOD
 
 Rezultatele	rezultat	Ncfpry
-automonitorizării	(0.89)automonitorizare	Ncfsoy
+automonitorizării	automonitorizare	Ncfsoy
 vor	vrea	Va--3p
 fi	fi	Vanp
 interpretate	interpreta	Vmp--pf
@@ -26868,7 +26868,7 @@ Justificare	justificare	Ncfsrn
 12	12	Mc
 )	)	RPAR
 Injecțiile	injecție	Ncfpry
-mutiple	(0.48)mutiplu	Afpfp-n
+multiple	multiplu	Afpfp-n
 de	de	Spsa
 insulină	insulină	Ncfsrn
 fac	face	Vmip3p
@@ -26916,7 +26916,7 @@ indicații	indicație	Ncfp-n
 acest	acest	Dd3msr---e
 regim	regim	Ncms-n
 insulina	insulină	Ncfsry
-glargină	(0.89)glargin	Afpfsrn
+glargină	glargin	Afpfsrn
 se	sine	Px3--a--------w
 poate	putea	Vmip3s
 administra	administra	Vmnp
@@ -26971,7 +26971,7 @@ se	sine	Px3--a--------w
 întâlnește	întâlni	Vmip3s
 în	în	Spsa
 cazul	caz	Ncmsry
-glarginei	(0.64)glargină	Ncfsoy
+glarginei	glargină	Ncfsoy
 .	.	PERIOD
 
 Dacă	dacă	Csssp
@@ -27009,7 +27009,7 @@ frecvent	frecvent	Rgp
 utilizată	utiliza	Vmp--sf
 de	de	Spsa
 când	când	Rw
-metforminul	(0.64)metformin	Ncmsry
+metforminul	metformin	Ncmsry
 a	avea	Va--3s
 fost	fi	Vap--sm
 reintrodus	reintroduce	Vmp--sm
@@ -27020,7 +27020,7 @@ terapie	terapie	Ncfsrn
 Existența	existență	Ncfsry
 contraindicațiilor	contraindicație	Ncfpoy
 pentru	pentru	Spsa
-metformin	(0.82)metformina	Vmip1s
+metformin	metformin	Ncms-n
 anulează	anula	Vmm-2s
 posibilitatea	posibilitate	Ncfsry
 asocierii	asociere	Ncfsoy
@@ -27032,7 +27032,7 @@ insulina	insulină	Ncfsry
 Pioglitazona	Pioglitazona	Np
 este	fi	Vmip3s
 singura	singur	Afpfsry
-tiazolidindionă	(0.82)tiazolidindiona	Vmis3s
+tiazolidindionă	tiazolidindionă	Ncfsrn
 aprobată	aprobat	Afpfsrn
 pentru	pentru	Spsa
 a	a	Qn
@@ -27060,7 +27060,7 @@ prezentată	prezenta	Vmp--sf
 în	în	Spsa
 cazul	caz	Ncmsry
 asocierii	asociere	Ncfsoy
-sulfonilureicelor	(0.71)sulfonilureică	Ncfpoy
+sulfonilureicelor	sulfonilureic	Ncfpoy
 la	la	Spsa
 insulinoterapie	insulinoterapie	Ncfsrn
 .	.	PERIOD
@@ -27077,11 +27077,11 @@ pacientului	pacient	Ncmsoy
 precum	precum	Rw
 și	și	Crssp
 posibilitatea	posibilitate	Ncfsry
-automonitorizării	(0.89)automonitorizare	Ncfsoy
+automonitorizării	automonitorizare	Ncfsoy
 .	.	PERIOD
 
 Anihilarea	anihilare	Ncfsry
-glucotoxicității	(0.89)glucotoxicitate	Ncfsoy
+glucotoxicității	glucotoxicitate	Ncfsoy
 necesită	necesita	Vmis3s
 uneori	uneori	Rgp
 o	un	Tifsr
@@ -27141,7 +27141,7 @@ să	să	Qs
 se	sine	Px3--a--------w
 selecteze	selecta	Vmsp3
 medicamentele	medicament	Ncfpry
-antihipertensive	(0.89)antihipertensiv	Afpfp-n
+antihipertensive	antihipertensiv	Afpfp-n
 .	.	PERIOD
 
 Efectul	efect	Ncmsry
@@ -27161,7 +27161,7 @@ clase	clasă	Ncfp-n
 din	din	Spsa
 medicația	medicație	Ncfsry
 orală	oral	Afpfsrn
-antihiperglicemică	(0.89)antihiperglicemic	Afpfsrn
+antihiperglicemică	antihiperglicemic	Afpfsrn
 asupra	asupra	Spsg
 factorilor	factor	Ncmpoy
 de	de	Spsa
@@ -27177,7 +27177,7 @@ cunoștințe	cunoștință	Ncfp-n
 insuficiente	insuficient	Afpfp-n
 în	în	Spsa
 practica	practică	Ncfsry
-diabetologică	(0.89)diabetologic	Afpfsrn
+diabetologică	diabetologic	Afpfsrn
 ,	,	COMMA
 de	de	Spsa
 unde	unde	Rw
@@ -27186,7 +27186,7 @@ prescripții	prescripție	Ncfp-n
 inadecvate	inadecvat	Afpfp-n
 și	și	Crssp
 tratamente	tratament	Ncfp-n
-nemonitorizate	(0.89)nemonitorizat	Afpfp-n
+nemonitorizate	nemonitorizat	Afpfp-n
 Pacienții	pacient	Ncmpry
 nu	nu	Qz
 sunt	fi	Vaip3p
@@ -27221,7 +27221,7 @@ localizate	localizat	Afpfp-n
 mai	mai	Rp
 ales	ales	Rgp
 ,	,	COMMA
-lipoatrofiile	(0.67)lipoatrofie	Ncfpry
+lipoatrofiile	lipoatrofie	Ncfpry
 )	)	RPAR
 au	avea	Va--3p
 devenit	deveni	Vmp--sm
@@ -27287,7 +27287,7 @@ sunt	fi	Vaip3p
 învățați	învăța	Vmp--pm
 că	că	Csssp
 valorile	valoare	Ncfpry
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 mari	mare	Afp-p-n
 sunt	fi	Vmip3p
 semnul	semn	Ncmsry
@@ -27299,7 +27299,7 @@ satisfăcător	satisfăcător	Afpms-n
 .	.	PERIOD
 
 Standardele	standard	Ncfpry
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 propuse	propune	Vmp--pf
 de	de	Spsa
 ghidurile	ghid	Ncfpry
@@ -35016,7 +35016,7 @@ DG	DG	Yn
 ,	,	COMMA
 insulinemia	(0.82)insulinemie	Ncfsry
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 este	fi	Vmip3s
 comparabilă	comparabil	Afpfsrn
 sau	sau	Ccssp
@@ -35114,7 +35114,7 @@ o	un	Tifsr
 glicemie	glicemie	Ncfsrn
 maternă	matern	Afpfsrn
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 mai	mai	Rp
 mare	mare	Afpfsrn
 de	de	Spsa
@@ -35922,7 +35922,7 @@ fi	fi	Vmnp
 mari	mare	Afp-p-n
 pentru	pentru	Spsa
 vârsta	vârstă	Ncfsry
-gestațională	(0.89)gestațional	Afpfsrn
+gestațională	gestațional	Afpfsrn
 (	(	LPAR
 în	în	Spsa
 caz	caz	Ncms-n
@@ -35936,7 +35936,7 @@ sau	sau	Ccssp
 mici	mic	Afp-p-n
 pentru	pentru	Spsa
 vârsta	vârstă	Ncfsry
-gestațională	(0.89)gestațional	Afpfsrn
+gestațională	gestațional	Afpfsrn
 (	(	LPAR
 vechime	vechime	Ncfsrn
 mare	mare	Afpfsrn
@@ -35963,7 +35963,7 @@ că	că	Csssp
 doar	doar	Rgp
 o	un	Tifsr
 valoare	valoare	Ncfsrn
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 medie	medie	Ncfsrn
 zilnică	zilnic	Afpfsrn
 mai	mai	Rp
@@ -36056,7 +36056,7 @@ insulinic	(WF)insulinic	Afpms-n
 cu	cu	Spsa
 normalizarea	normalizare	Ncfsry
 valorilor	valoare	Ncfpoy
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 ,	,	COMMA
 tinde	tinde	Vmip3s
 să	să	Qs
@@ -36288,7 +36288,7 @@ de	de	Spsa
 insulină	insulină	Ncfsrn
 la	la	Spsa
 stimuli	stimul	Ncmp-n
-glicemici	(0.89)glicemic	Afpmp-n
+glicemici	glicemic	Afpmp-n
 .	.	PERIOD
 
 Mai	mai	Rp
@@ -36782,7 +36782,7 @@ câte	câte	Rw
 ori	ori	Ccssp
 glicemia	glicemie	Ncfsry
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 depășește	depăși	Vmip3s
 100	100	Mc
 mg	mg	Yn
@@ -36811,13 +36811,13 @@ ale	al	Tsfp
 tulburărilor	tulburare	Ncfpoy
 de	de	Spsa
 reglare	reglare	Ncfsrn
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 )	)	RPAR
 .	.	PERIOD
 
 Valorile	valoare	Ncfpry
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 situate	situat	Afpfp-n
 sub	sub	Spsa
 130	130	Mc
@@ -36845,7 +36845,7 @@ ani	an	Ncmp-n
 datorită	datorită	Spsd
 glicemiile	glicemie	Ncfpry
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 în	în	Spsa
 creștere	creștere	Ncfsrn
 (	(	LPAR
@@ -36976,7 +36976,7 @@ de	de	Spsa
 atins	atinge	Vmp--sm
 decât	decât	Rc
 cele	acela	Pd3fpr
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 .	.	PERIOD
 
 În	în	Spsa
@@ -37055,7 +37055,7 @@ metabolică	metabolic	Afpfsrn
 exprimată	exprima	Vmp--sf
 prin	prin	Spsa
 excursii	excursie	Ncfp-n
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 mari	mare	Afp-p-n
 ,	,	COMMA
 din	din	Spsa
@@ -37698,7 +37698,7 @@ dintre	dintre	Spsa
 pacienții	pacient	Ncmpry
 cu	cu	Spsa
 instabilitate	instabilitate	Ncfsrn
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 inexplicabilă	inexplicabil	Afpfsrn
 prezintă	prezenta	Vmip3
 în	în	Spsa
@@ -37740,7 +37740,7 @@ subnutrite	subnutrit	Afpfp-n
 .	.	PERIOD
 
 Instabilitatea	instabilitate	Ncfsry
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 idiopatică	idiopatic	Afpfsrn
 este	fi	Vmip3s
 un	un	Timsr
@@ -37794,7 +37794,7 @@ două	două	Mcfp-l
 administrări	administrare	Ncfp-n
 ,	,	COMMA
 scăderea	scădere	Ncfsry
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 a	avea	Va--3s
 fost	fi	Vap--sm
 obișnuită	obișnui	Vmp--sf
@@ -38044,7 +38044,7 @@ elecție	elecție	Ncfsrn
 fiind	fi	Vmg
 glicemia	glicemie	Ncfsry
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 .	.	PERIOD
 
 Aceste	acest	Dd3fpr---e
@@ -38556,7 +38556,7 @@ glucide	glucid	Ncfp-n
 Dacă	dacă	Csssp
 glicemia	glicemie	Ncfsry
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 este	fi	Vmip3s
 <	<	LT
 200	200	Mc
@@ -39022,7 +39022,7 @@ fizice	fizic	Afpfp-n
 pot	putea	Vmip3p
 produce	produce	Vmnp
 contrareglare	contrareglare	Ncfsrn
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 excesivă	excesiv	Afpfsrn
 ,	,	COMMA
 afectarea	afectare	Ncfsry
@@ -39318,7 +39318,7 @@ variabilă	variabil	Afpfsrn
 ,	,	COMMA
 iar	iar	Rc
 nivelurile	nivel	Ncfpry
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 luate	lua	Vmp--pf
 în	în	Spsa
 considerație	considerație	Ncfsrn
@@ -40408,7 +40408,7 @@ glicemiei	glicemie	Ncfsoy
 și	și	Crssp
 insulinemiei	(0.89)insulinemie	Ncfsoy
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 observate	observat	Afpfp-n
 la	la	Spsa
 subiect	subiect	Ncms-n
@@ -40442,7 +40442,7 @@ glicemiei	glicemie	Ncfsoy
 și	și	Crssp
 insulinemiei	(0.89)insulinemie	Ncfsoy
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 .	.	PERIOD
 
 Între	între	Spsa
@@ -40901,7 +40901,7 @@ diabet	diabet	Ncms-n
 
 A-	avea	Va--3s
 ți	tu	Pp2-sd--------w
-recunoaște	(0.79)recunoaști	Vmip3s
+recunoaște	recunoaște	Vmip3s
 greșeala	greșeală	Ncfsry
 poate	putea	Vmip3s
 fi	fi	Vmnp
@@ -41624,7 +41624,7 @@ ani	an	Ncmp-n
 ,	,	COMMA
 glicemia	glicemie	Ncfsry
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 rămâne	rămâne	Vmip3s
 normală	normal	Afpfsrn
 și	și	Crssp
@@ -41645,7 +41645,7 @@ bolii	boală	Ncfsoy
 Când	când	Rw
 glicemia	glicemie	Ncfsry
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 atinge	atinge	Vmnp
 valoarea	valoare	Ncfsry
 de	de	Spsa
@@ -42303,7 +42303,7 @@ argininei	arginină	Ncfsoy
 
 La	la	Spsa
 niveluri	nivel	Ncfp-n
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 egale	egal	Afpfp-n
 ,	,	COMMA
 subiecții	subiect	Ncmpry
@@ -42595,7 +42595,7 @@ proinsulină	(0.82)proinsulina	Vmis3s
 /	/	SLASH
 insulină	insulină	Ncfsrn
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 și	și	Crssp
 funcția	funcție	Ncfsry
 betacelulară	(0.89)betacelular	Afpfsrn
@@ -44148,7 +44148,7 @@ induce	induce	Vmnp
 o	un	Tifsr
 discretă	discret	Afpfsrn
 creștere	creștere	Ncfsrn
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 datorită	datorită	Spsd
 utilizării	utilizare	Ncfsoy
 scăzute	scăzut	Afpfson
@@ -44172,7 +44172,7 @@ Hiperinsulinismul	hiperinsulinism	Ncmsry
 asociat	asocia	Vmp--sm
 cu	cu	Spsa
 creșterea	creștere	Ncfsry
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 va	vrea	Va--3s
 devia	devia	Vmnp
 glucoza	glucoză	Ncfsry
@@ -47556,7 +47556,7 @@ asociată	asocia	Vmp--sf
 cu	cu	Spsa
 insulinemie	insulinemie	Ncfsrn
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 crescută	crescut	Afpfsrn
 și	și	Crssp
 nivel	nivel	Ncms-n
@@ -48307,7 +48307,7 @@ pot	putea	Vmip3p
 confirma	confirma	Vmnp
 o	un	Tifsr
 valoare	valoare	Ncfsrn
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 scăzută	scădea	Vmp--sf
 în	în	Spsa
 momentul	moment	Ncmsry
@@ -49045,7 +49045,7 @@ deoarece	deoarece	Csssp
 nivelele	nivel	Ncfpry
 serice	seric	Afpfp-n
 a	avea	Va--3s
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 ale	al	Tsfp
 glicerolului	glicerol	Ncmsoy
 și	și	Crssp
@@ -49067,7 +49067,7 @@ mari	mare	Afp-p-n
 .	.	PERIOD
 
 Homeostazia	homeostazie	Ncfsry
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 este	fi	Vaip3s
 asigurată	asigura	Vmp--sf
 de	de	Spsa
@@ -49194,7 +49194,7 @@ absența	absență	Ncfsry
 lui	lui	Ds3---s
 previne	preveni	Vmip3s
 creșterile	creștere	Ncfpry
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 previzibile	previzibil	Afpfp-n
 ale	al	Tsfp
 celor	cel	Td-po
@@ -52916,7 +52916,7 @@ diagnostic	diagnostic	Ncms-n
 este	fi	Vmip3s
 glicemia	glicemie	Ncfsry
 a	avea	Va--3s
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 ,	,	COMMA
 a	al	Tsfs
 cărei	care	Dw3fso---e
@@ -53171,7 +53171,7 @@ opțiune	opțiune	Ncfsrn
 o	el	Pp3fsa--------w
 constituie	constitui	Vmip3
 administrarea	administrare	Ncfsry
-statinelor	(0.71)statină	Ncfpoy
+statinelor	statină	Ncfpoy
 care	care	Pw3--r
 și-	sine	Px3--d--y-----w
 au	avea	Va--3p
@@ -54018,7 +54018,7 @@ alcătuit	alcătui	Vmp--sm
 din	din	Spsa
 29	29	Mc
 resturi	rest	Ncfp-n
-aminoacidice	(0.89)aminoacidic	Afpfp-n
+aminoacidice	aminoacidic	Afpfp-n
 ,	,	COMMA
 având	avea	Vmg
 o	un	Tifsr
@@ -54298,7 +54298,7 @@ prezenței	prezență	Ncfsoy
 a	al	Tsfs
 unor	un	Ti-po
 valori	valoare	Ncfp-n
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 mari	mare	Afp-p-n
 în	în	Spsa
 perioada	perioadă	Ncfsry
@@ -54661,7 +54661,7 @@ C	C	Ncm--n
 și	și	Crssp
 câteva	câtva	Di3fpr
 resturi	rest	Ncfp-n
-aminoacidice	(0.89)aminoacidic	Afpfp-n
+aminoacidice	aminoacidic	Afpfp-n
 se	sine	Px3--a--------w
 află	afla	Vmis3s
 în	în	Spsa
@@ -54813,7 +54813,7 @@ IGF	IGF	Np
 au	avea	Vmip3p
 o	un	Tifsr
 secvență	secvență	Ncfsrn
-aminoacidică	(0.89)aminoacidic	Afpfsrn
+aminoacidică	aminoacidic	Afpfsrn
 identică	identic	Afpfsrn
 cu	cu	Spsa
 cea	acela	Pd3fsr
@@ -54850,7 +54850,7 @@ II	II	Mc
 posedă	poseda	Vmis3s
 o	un	Tifsr
 omologie	omologie	Ncfsrn
-aminoacidică	(0.89)aminoacidic	Afpfsrn
+aminoacidică	aminoacidic	Afpfsrn
 de	de	Spsa
 43%	43%	Mc
 și	și	Crssp
@@ -54875,7 +54875,7 @@ Diferențele	diferență	Ncfpry
 mici	mic	Afp-p-n
 de	de	Spsa
 structură	structură	Ncfsrn
-aminoacidică	(0.89)aminoacidic	Afpfsrn
+aminoacidică	aminoacidic	Afpfsrn
 a	al	Tsfs
 IGF	IGF	Np
 I	el	Pp3-sd--------w
@@ -55529,7 +55529,7 @@ fine	fine	Ncms-n
 în	în	Spsa
 1215	1215	Mc
 se	sine	Px3--a--------w
-recunoaște	(0.79)recunoaști	Vmip3s
+recunoaște	recunoaște	Vmip3s
 studenților	student	Ncmpoy
 dreptul	drept	Ncmsry
 de	de	Spsa
@@ -56259,7 +56259,7 @@ mai	mai	Rp
 mare	mare	Afpfsrn
 glicemiei	glicemie	Ncfsoy
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 ,	,	COMMA
 mai	mai	Rp
 ales	ales	Rgp
@@ -56290,7 +56290,7 @@ curant	curant	Afpms-n
 diabetolog	diabetolog	Afpms-n
 ,	,	COMMA
 valorile	valoare	Ncfpry
-glicemice	(0.89)glicemic	Afpfp-n
+glicemice	glicemic	Afpfp-n
 fiind	fi	Vmg
 automat	automat	Rgp
 înregistrate	înregistrat	Afpfp-n
@@ -56347,7 +56347,7 @@ insulina	insulină	Ncfsry
 proporțional	proporțional	Afpms-n
 cu	cu	Spsa
 creșterea	creștere	Ncfsry
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 indusă	indus	Afpfsrn
 .	.	PERIOD
 
@@ -56403,7 +56403,7 @@ neconcordanța	neconcordanță	Ncfsry
 dintre	dintre	Spsa
 valoarea	valoare	Ncfsry
 minimă	minim	Afpfsrn
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 înregistrată	înregistrat	Afpfsrn
 postprandial	postprandial	Afpms-n
 ,	,	COMMA
@@ -56599,7 +56599,7 @@ insulino-secretorie	(0.89)insulino-secretoriu	Afpfsrn
 indusă	induce	Vmp--sf
 de	de	Spsa
 creșterea	creștere	Ncfsry
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 )	)	RPAR
 și	și	Crssp
 /	/	SLASH
@@ -56868,7 +56868,7 @@ comparativ	comparativ	Rgp
 cu	cu	Spsa
 valoarea	valoare	Ncfsry
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 .	.	PERIOD
 
 Pentru	pentru	Spsa
@@ -57146,7 +57146,7 @@ glicemiei	glicemie	Ncfsoy
 iar	iar	Rc
 hiperglicemia	hiperglicemie	Ncfsry
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 ce	ce	Pw3--r
 apare	apărea	Vmip3s
 la	la	Spsa
@@ -61561,7 +61561,7 @@ insulinei	insulină	Ncfsoy
 Există	exista	Vmis3s
 hiperglicemie	hiperglicemie	Ncfsrn
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	Np
 ,	,	COMMA
 uneori	uneori	Rgp
 similară	similar	Afpfsrn
@@ -62247,7 +62247,7 @@ hipotalamici	hipotalamic	Afpmp-n
 de	de	Spsa
 către	către	Spsa
 scăderea	scădere	Ncfsry
-glicemică	(0.89)glicemic	Afpfsrn
+glicemică	glicemic	Afpfsrn
 (	(	LPAR
 16	16	Mc
 )	)	RPAR
