@@ -13840,7 +13840,7 @@ asocierea	asociere	Ncfsry
 tratament	tratament	Ncms-n
 a	al	Tsfs
 unei	un	Tifso
-statine	(0.6)statină	Ncfson
+statine	statină	Ncfson
 (	(	LPAR
 10	10	Mc
 )	)	RPAR
@@ -13904,7 +13904,7 @@ includerea	includere	Ncfsry
 alimentație	alimentație	Ncfsrn
 a	al	Tsfs
 grăsimilor	grăsime	Ncfpoy
-mononesaturate	(0.89)mononesaturat	Afpfp-n
+mononesaturate	mononesaturat	Afpfp-n
 și	și	Crssp
 polinesaturate	polinesaturat	Afpfp-n
 scad	scădea	Vmip3p
@@ -14054,7 +14054,7 @@ roșu	roșu	Ncms-n
 )	)	RPAR
 au	avea	Va--3p
 efecte	efect	Ncfp-n
-cardioprotective	(0.89)cardioprotectiv	Afpfp-n
+cardioprotective	cardioprotectiv	Afpfp-n
 .	.	PERIOD
 
 Calciul	calciu	Ncmsry
@@ -14068,7 +14068,7 @@ saturați	saturat	Afpmp-n
 ,	,	COMMA
 rezultând	rezulta	Vmg
 săpunuri	săpun	Ncfp-n
-neabsorbabile	(0.89)neabsorbabil	Afpfp-n
+neabsorbabile	neabsorbabil	Afpfp-n
 care	care	Pw3--r
 se	sine	Px3--a--------w
 elimină	elimina	Vmis3s
@@ -14082,7 +14082,7 @@ un	un	Timsr
 aminoacid	aminoacid	Ncms-n
 inodor	inodor	Afpms-n
 ,	,	COMMA
-aliina	(0.85)aliină	Ncfsvy
+aliina	aliină	Ncfsvy
 ,	,	COMMA
 care	care	Pw3--r
 ,	,	COMMA
@@ -14103,7 +14103,7 @@ Ingredientele	ingredient	Ncfpry
 active	activ	Afpfp-n
 sunt	fi	Vaip3p
 compuși	compune	Vmp--pm
-organo-sulfurici	(0.57)organo-sulfurică	Ncfp-n
+organo-sulfurici	organo-sulfuric	Afpmp-n
 ,	,	COMMA
 de	de	Spsa
 unde	unde	Rw
@@ -14131,7 +14131,7 @@ TA	tău	Ps2fsrs
 ,	,	COMMA
 atât	atât	Rgp
 la	la	Spsa
-normotensivi	(0.89)normotensiv	Afpmp-n
+normotensivi	normotensiv	Afpmp-n
 ,	,	COMMA
 cât	cât	Rw
 și	și	Crssp
@@ -14155,7 +14155,7 @@ spitalizați	spitaliza	Vmp--pm
 cu	cu	Spsa
 IC	ic	Ncms-n
 sunt	fi	Vmip3p
-malnutriți	(0.89)malnutrit	Afpmp-n
+malnutriți	malnutrit	Afpmp-n
 (	(	LPAR
 50-68	50-68	Np
 %	%	PERCENT
@@ -14179,7 +14179,7 @@ a	al	Tsfs
 statusului	status	Ncmsoy
 cognitiv	cognitiv	Afpms-n
 pentru	pentru	Spsa
-exluderea	(0.82)exludere	Ncfsry
+excluderea	excludere	Ncfsry
 unei	un	Tifso
 alte	alt	Di3fso---e
 tulburări	tulburare	Ncfson
@@ -14209,7 +14209,7 @@ tratamentul	tratament	Ncmsry
 simptomatic	simptomatic	Afpms-n
 și	și	Crssp
 susținerea	susținere	Ncfsry
-psiho-emoțională	(0.89)psiho-emoțional	Afpfsrn
+psiho-emoțională	psiho-emoțional	Afpfsrn
 a	al	Tsfs
 pacientului	pacient	Ncmsoy
 și	și	Crssp
@@ -14225,7 +14225,7 @@ poate	putea	Vmip3s
 fi	fi	Vmnp
 productivă	productiv	Afpfsrn
 sau	sau	Ccssp
-non-productivă	(0.89)non-productiv	Afpfsrn
+non-productivă	non-productiv	Afpfsrn
 și	și	Crssp
 poate	putea	Vmip3s
 de	de	Spsa
@@ -14260,7 +14260,7 @@ fi	fi	Vanp
 utilizate	utiliza	Vmp--pf
 fie	fie	Ccssp
 metode	metodă	Ncfp-n
-non-standardizate	(0.89)non-standardizat	Afpfp-n
+non-standardizate	non-standardizat	Afpfp-n
 ,	,	COMMA
 cum	cum	Rw
 ar	avea	Va--3
@@ -14323,7 +14323,7 @@ unei	un	Tifso
 științe	știință	Ncfson
 noi	nou	Afpfson
 ,	,	COMMA
-gerontotehnologia	(0.82)gerontotehnologie	Ncfsry
+gerontotehnologia	gerontotehnologie	Ncfsry
 .	.	PERIOD
 
 Definiția	definiție	Ncfsry
@@ -14379,7 +14379,7 @@ de	de	Spsa
 a	a	Qn
 reduce	reduce	Vmnp
 ageism	ageism	Ncms-n
-ul	(0.64)u	Ncmsry
+ul	ul	Tdmsr
 se	sine	Px3--a--------w
 pot	putea	Vmip3p
 concretiza	concretiza	Vmnp
@@ -14440,7 +14440,7 @@ deveni	deveni	Vmnp
 frustrați	frustra	Vmp--pm
 de	de	Spsa
 conflictele	conflict	Ncfpry
-intrafamiliale	(0.89)intrafamilial	Afpfp-n
+intrafamiliale	intrafamilial	Afpfp-n
 și	și	Crssp
 de	de	Spsa
 procesele	proces	Ncfpry
@@ -14520,7 +14520,7 @@ apreciate	aprecia	Vmp--pf
 drept	drept	Spsa
 "	"	DBLQ
 formule	formulă	Ncfp-n
-ritualistice	(0.89)ritualistic	Afpfp-n
+ritualistice	ritualistic	Afpfp-n
 "	"	DBLQ
 ,	,	COMMA
 "	"	DBLQ
@@ -14563,7 +14563,7 @@ instituționalizați	instituționalizat	Afpmp-n
 special	special	Rgp
 cei	acela	Pd3mpr
 din	din	Spsa
-azile	(0.56)azil	Ncfp-n
+azile	azil	Ncfp-n
 ,	,	COMMA
 pentru	pentru	Spsa
 ca	ca	Rc
@@ -14686,7 +14686,7 @@ către	către	Spsa
 un	un	Timsr
 pacient	pacient	Ncms-n
 sau	sau	Ccssp
-decidenții	(0.7)decidenție	Ncfp-n
+decidenții	decident	Ncmp-n
 surogat	surogat	Ncms-n
 .	.	PERIOD
 
@@ -14706,7 +14706,7 @@ creștere	creștere	Ncfsrn
 a	al	Tsfs
 glicemiei	glicemie	Ncfsoy
 à	à	X
-jeun	(0.82)jeuna	Vmip1s
+jeun	jeun	X
 cu	cu	Spsa
 2	2	Mc
 mg	mg	Yn
@@ -14751,7 +14751,7 @@ scăderea	scădere	Ncfsry
 HDL-colesterolului	HDL-colesterolului	Np
 și	și	Crssp
 creșterea	creștere	Ncfsry
-lipoproteinelor	(0.71)lipoproteină	Ncfpoy
+lipoproteinelor	lipoproteină	Ncfpoy
 cu	cu	Spsa
 densitate	densitate	Ncfsrn
 foarte	foarte	Rp
@@ -14783,7 +14783,7 @@ lor	lui	Ds3---p
 inducerea	inducere	Ncfsry
 apariției	apariție	Ncfsoy
 complicațiilor	complicație	Ncfpoy
-macroangiopatice	(0.89)macroangiopatic	Afpfp-n
+macroangiopatice	macroangiopatic	Afpfp-n
 sunt	fi	Vaip3p
 demonstrate	demonstra	Vmp--pf
 de	de	Spsa
@@ -14797,7 +14797,7 @@ a	avea	Va--3s
 demonstrat	demonstra	Vmp--sm
 pe	pe	Spsa
 șoareci	șoarec	Ncmp-n
-diabetizați	(0.89)diabetizat	Afpmp-n
+diabetizați	diabetizat	Afpmp-n
 tip	tip	Ncms-n
 apoE	apoE	Np
 KO	KO	Np
@@ -14826,7 +14826,7 @@ specifici	specific	Afpmp-n
 
 Astfel	astfel	Rgp
 ,	,	COMMA
-glicozilarea	(0.82)glicozilare	Ncfsry
+glicozilarea	glicozilare	Ncfsry
 proteinelor	proteină	Ncfpoy
 are	avea	Vmip3s
 rol	rol	Ncms-n
@@ -14851,7 +14851,7 @@ disfuncția	disfuncție	Ncfsry
 endotelială	endotelial	Afpfsrn
 și	și	Crssp
 de	de	Spsa
-hiperstimularea	(0.82)hiperstimulare	Ncfsry
+hiperstimularea	hiperstimulare	Ncfsry
 activității	activitate	Ncfsoy
 plachetare	plachetar	Afpfson
 .	.	PERIOD
@@ -15341,7 +15341,7 @@ cohortă	cohortă	Ncfsrn
 
 Hiperactivitatea	hiperactivitate	Ncfsry
 axului	ax	Ncmsoy
-hipotalamo	(0.66)hipotalamă	Ncfsvy
+hipotalamo	hipotalamo	X
 pituitar	pituitar	Afpms-n
 adrenocortical	(WF)adrenocortical	Afpms-n
 ,	,	COMMA
@@ -16594,7 +16594,7 @@ om	om	Ncms-n
 .	.	PERIOD
 
 Veziculele	veziculă	Ncfpry
-pronefretice	(0.89)pronefretic	Afpfp-n
+pronefretice	pronefretic	Afpfp-n
 sunt	fi	Vaip3p
 nefuncționale	nefuncțional	Afpfp-n
 ,	,	COMMA
@@ -16614,7 +16614,7 @@ Interesant	interesant	Afpms-n
 de	de	Spsa
 subliniat	sublinia	Vmp--sm
 că	că	Csssp
-mesenchimul	(0.64)mesenchim	Ncmsry
+mesenchimul	mesenchim	Ncmsry
 indus	indus	Afpms-n
 stimulează	stimula	Vmip3
 ramificarea	ramificare	Ncfsry
@@ -16626,7 +16626,7 @@ acestea	acesta	Pd3fpr
 vor	vrea	Va--3p
 stimula	stimula	Vmnp
 conversia	conversie	Ncfsry
-mesenchimului	(0.71)mesenchim	Ncmsoy
+mesenchimului	mesenchim	Ncmsoy
 în	în	Spsa
 celule	celulă	Ncfp-n
 epiteliale	epitelial	Afpfp-n
@@ -16634,7 +16634,7 @@ primitive	primitiv	Afpfp-n
 .	.	PERIOD
 
 Celulele	celulă	Ncfpry
-mesenchimale	(0.89)mesenchimal	Afpfp-n
+mesenchimale	mesenchimal	Afpfp-n
 induse	indus	Afpfp-n
 ,	,	COMMA
 care	care	Pw3--r
@@ -16650,7 +16650,7 @@ jurul	jur	Ncmsry
 vârfurilor	vârf	Ncfpoy
 ramurilor	ram	Ncfpoy
 mugurilor	mugur	Ncmpoy
-ureterici	(0.89)ureteric	Afpmp-n
+ureterici	ureteric	Afpmp-n
 și	și	Crssp
 apoi	apoi	Rgp
 formează	forma	Vmip3
@@ -16665,7 +16665,7 @@ creștere	creștere	Ncfsrn
 ce	ce	Pw3--r
 stimulează	stimula	Vmip3
 diferențierea	diferențiere	Ncfsry
-mesenchimului	(0.71)mesenchim	Ncmsoy
+mesenchimului	mesenchim	Ncmsoy
 în	în	Spsa
 nefroni	nefron	Ncmp-n
 sunt	fi	Vaip3p
@@ -16697,7 +16697,7 @@ celulară	celular	Afpfsrn
 ,	,	COMMA
 sau	sau	Ccssp
 cu	cu	Spsa
-nidogenul	(0.64)nidogen	Ncmsry
+nidogenul	nidogen	Ncmsry
 ,	,	COMMA
 o	un	Tifsr
 proteină	proteină	Ncfsrn
@@ -16745,14 +16745,14 @@ renal	renal	Afpms-n
 este	fi	Vaip3s
 alcătuit	alcătui	Vmp--sm
 din	din	Spsa
-tubii	(0.57)tubie	Ncfp-n
+tubii	tub	Ncmp-n
 uriniferi	urinifer	Afpmp-n
 ,	,	COMMA
 care	care	Pw3--r
 reprezintă	reprezenta	Vmip3
 totalitatea	totalitate	Ncfsry
 unităților	unitate	Ncfpoy
-morfo-funcționale	(0.89)morfo-funcțional	Afpfp-n
+morfo-funcționale	morfo-funcțional	Afpfp-n
 ale	al	Tsfp
 rinichiului	rinichi	Ncmsoy
 .	.	PERIOD
@@ -16788,7 +16788,7 @@ membranei	membrană	Ncfsoy
 bazale	bazal	Afpfson
 ,	,	COMMA
 conțin	conține	Vmip3
-diafragmul	(0.64)diafragm	Ncmsry
+diafragmul	diafragm	Ncmsry
 fantei	fantă	Ncfsoy
 (	(	LPAR
 acest	acest	Dd3msr---e
@@ -16798,7 +16798,7 @@ din	din	Spsa
 fostele	fost	Afpfpry
 joncțiuni	joncțiune	Ncfp-n
 ale	al	Tsfp
-podocitului	(0.71)podocit	Ncmsoy
+podocitului	podocit	Ncmsoy
 imatur	imatur	Afpms-n
 ,	,	COMMA
 fapt	fapt	Ncms-n
@@ -16810,7 +16810,7 @@ ZO-1	ZO-1	Np
 ,	,	COMMA
 caracteristică	caracteristic	Afpfsrn
 joncțiunilor	joncțiune	Ncfpoy
-ocludente	(0.89)ocludent	Afpfp-n
+ocludente	ocludent	Afpfp-n
 )	)	RPAR
 .	.	PERIOD
 
@@ -16822,7 +16822,7 @@ membrana	membrană	Ncfsry
 bazală	bazal	Afpfsrn
 ,	,	COMMA
 prin	prin	Spsa
-integrine	(0.7)integrină	Ncfp-n
+integrine	integrină	Ncfp-n
 (	(	LPAR
 a3b1	a3b1	Yn
 ,	,	COMMA
@@ -16831,7 +16831,7 @@ recunosc	recunoaște	Vmip3p
 colagenul	colagen	Ncmsry
 IV	IV	Mc
 și	și	Crssp
-laminina	(0.64)laminină	Ncfsry
+laminina	laminină	Ncfsry
 )	)	RPAR
 .	.	PERIOD
 
@@ -16843,7 +16843,7 @@ membrana	membrană	Ncfsry
 bazală	bazal	Afpfsrn
 mai	mai	Rp
 conține	conține	Vmip3s
-proteoglicani	(0.48)proteoglican	Ncmp-n
+proteoglicani	proteoglican	Ncmp-n
 sulfatați	sulfatat	Afpmp-n
 (	(	LPAR
 perlecan	perlecan	Ncms-n
@@ -16858,7 +16858,7 @@ Fața	față	Ncfsry
 bazală	bazal	Afpfsrn
 prezintă	prezenta	Vmip3
 molecule	moleculă	Ncfp-n
-transmembranare	(0.89)transmembranar	Afpfp-n
+transmembranare	transmembranar	Afpfp-n
 ,	,	COMMA
 responsabile	responsabil	Afpfp-n
 pentru	pentru	Spsa
@@ -16920,7 +16920,7 @@ se	sine	Px3--a--------w
 face	face	Vmip3s
 prin	prin	Spsa
 aceleași	același	Dd3fpr---e
-integrine	(0.7)integrină	Ncfp-n
+integrine	integrină	Ncfp-n
 ,	,	COMMA
 ca	ca	Rc
 și	și	Crssp
@@ -16947,19 +16947,19 @@ PKD	PKD	Np
 PKD	PKD	Np
 2	2	Mc
 pe	pe	Spsa
-cromosomii	(0.7)cromosomie	Ncfp-n
+cromozomii	cromozom	Ncmpry
 16p	16p	Nc,Ncm,Nc---n,Ncf--n,Ncf--ny,Ncm--n,Etd,Eqy,Eqt,Eqd,Eqa,Eqm,Eqv,Eid
 și	și	Crssp
 4q	4q	Nc,Ncm,Nc---n,Ncf--n,Ncf--ny,Ncm--n,Etd,Eqy,Eqt,Eqd,Eqa,Eqm,Eqv,Eid
 ,	,	COMMA
 structura	structură	Ncfsry
 de	de	Spsa
-exoni	(0.56)exon	Ncmp-n
+exoni	exon	Ncmp-n
 și	și	Crssp
-introni	(0.56)intron	Ncmp-n
+introni	intron	Ncmp-n
 a	al	Tsfs
 secvențelor	secvență	Ncfpoy
-codante	(0.89)codant	Afpfp-n
+codante	codant	Afpfp-n
 (	(	LPAR
 în	în	Spsa
 partea	parte	Ncfsry
@@ -16969,7 +16969,7 @@ figurii	figură	Ncfsoy
 )	)	RPAR
 ,	,	COMMA
 structura	structură	Ncfsry
-policistinei	(0.71)policistină	Ncfsoy
+policistinei	policistină	Ncfsoy
 1	1	Mc
 (	(	LPAR
 centru-stânga	centru-stânga	Ncfsry
@@ -17008,7 +17008,7 @@ mesaje	mesaj	Ncfp-n
 recepționate	recepționa	Vmp--pf
 de	de	Spsa
 porțiunea	porțiune	Ncfsry
-extramembranară	(0.89)extramembranar	Afpfsrn
+extramembranară	extramembranar	Afpfsrn
 )	)	RPAR
 spre	spre	Spsa
 citoplasmă	citoplasmă	Ncfsrn
@@ -17035,13 +17035,13 @@ identică	identic	Afpfsrn
 sau	sau	Ccssp
 omoloagă	omolog	Afpfsrn
 cu	cu	Spsa
-policistina	(0.64)policistină	Ncfsry
+policistina	policistină	Ncfsry
 1	1	Mc
 )	)	RPAR
 corespunde	corespunde	Vmip3s
 unei	un	Tifso
 proteine	proteină	Ncfson
-membranare	(0.75)membranar	Afpfson
+membranare	membranar	Afpfson
 .	.	PERIOD
 
 Pe	pe	Spsa
@@ -17050,7 +17050,7 @@ altă	alt	Di3fsr---e
 parte	parte	Ncfsrn
 ,	,	COMMA
 interacțiunile	interacțiune	Ncfpry
-policistinei	(0.71)policistină	Ncfsoy
+policistinei	policistină	Ncfsoy
 1	1	Mc
 cu	cu	Spsa
 diferite	diferit	Afpfp-n
@@ -17064,7 +17064,7 @@ integina	integina	Np
 sugerează	sugera	Vmip3
 posibilitatea	posibilitate	Ncfsry
 ca	ca	Rc
-policistina	(0.64)policistină	Ncfsry
+policistina	policistină	Ncfsry
 1	1	Mc
 să	să	Qs
 fie	fi	Vmsp3
@@ -17080,7 +17080,7 @@ leagă	lega	Vmip3
 matricea	matrice	Ncfsry
 extracelulară	extracelular	Afpfsrn
 la	la	Spsa
-citoscheletul	(0.64)citoschelet	Ncmsry
+citoscheletul	citoschelet	Ncmsry
 de	de	Spsa
 actină	actină	Ncfsrn
 .	.	PERIOD
@@ -17088,13 +17088,13 @@ actină	actină	Ncfsrn
 Se	sine	Px3--a--------w
 crede	crede	Vmip3s
 că	că	Csssp
-policistina	(0.64)policistină	Ncfsry
+policistina	policistină	Ncfsry
 2	2	Mc
 acționează	acționa	Vmip3
 ,	,	COMMA
 împreună	împreună	Rgp
 cu	cu	Spsa
-policistina	(0.64)policistină	Ncfsry
+policistina	policistină	Ncfsry
 1	1	Mc
 ,	,	COMMA
 în	în	Spsa
@@ -17127,7 +17127,7 @@ au	avea	Vmip3p
 în	în	Spsa
 comun	comun	Ncms-n
 prezența	prezență	Ncfsry
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 renali	renal	Afpmp-n
 și	și	Crssp
 hepatici	hepatic	Afpmp-n
@@ -17160,7 +17160,7 @@ apariția	apariție	Ncfsry
 și	și	Crssp
 creșterea	creștere	Ncfsry
 )	)	RPAR
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 .	.	PERIOD
 
 Celulele	celulă	Ncfpry
@@ -17172,7 +17172,7 @@ aa	aa	Yn
 nu	nu	Qz
 produc	produce	Vmip3p
 deloc	deloc	Rgp
-policistină	(0.89)policistin	Afpfsrn
+policistină	policistină	Ncfsrn
 ,	,	COMMA
 dispare	dispărea	Vmip3s
 semnalul	semnal	Ncmsry
@@ -17237,13 +17237,13 @@ bolii	boală	Ncfsoy
 )	)	RPAR
 odată	odată	Rgp
 cu	cu	Spsa
-vĂrsta	(0.45)vărstă	Ncfsry
+vârsta	vârstă	Ncfsry
 .	.	PERIOD
 
 Manifestările	manifestare	Ncfpry
 renale	renal	Afpfp-n
 și	și	Crssp
-extrarenale	(0.89)extrarenal	Afpfp-n
+extrarenale	extrarenal	Afpfp-n
 din	din	Spsa
 ADPKD	ADPKD	Np
 au	avea	Va--3p
@@ -17276,7 +17276,7 @@ studiul	studiu	Ncmsry
 distribuției	distribuție	Ncfsoy
 subcelulare	subcelular	Afpfson
 a	al	Tsfs
-policistinelor	(0.71)policistină	Ncfpoy
+policistinelor	policistină	Ncfpoy
 (	(	LPAR
 prin	prin	Spsa
 imunolocalizare	imunolocalizare	Ncfsrn
@@ -17284,7 +17284,7 @@ cu	cu	Spsa
 anticorpi	anticorp	Ncmp-n
 monoclonali	monoclonal	Afpmp-n
 sau	sau	Ccssp
-policlonali	(0.89)policlonal	Afpmp-n
+policlonali	policlonal	Afpmp-n
 )	)	RPAR
 .	.	PERIOD
 
@@ -17330,7 +17330,7 @@ face	face	Vmnp
 (	(	LPAR
 absența	absență	Ncfsry
 unor	un	Ti-po
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 renali	renal	Afpmp-n
 detectabili	detectabil	Afpmp-n
 sau	sau	Ccssp
@@ -17461,7 +17461,7 @@ prealabilă	prealabil	Afpfsrn
 necesară	necesar	Afpfsrn
 pentru	pentru	Spsa
 expansiunea	expansiune	Ncfsry
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 .	.	PERIOD
 
 Deci	deci	Ccssp
@@ -17496,7 +17496,7 @@ care	care	Pw3--r
 poate	putea	Vmip3s
 iniția	iniția	Vmnp
 formarea	formare	Ncfsry
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 și	și	Crssp
 apoi	apoi	Rgp
 creșterea	creștere	Ncfsry
@@ -17551,7 +17551,7 @@ in	in	Ncms-n
 vivo	vivo	Rgp
 inhibarea	inhibare	Ncfsry
 progresiei	progresie	Ncfsoy
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 .	.	PERIOD
 
 ADPKD	ADPKD	Np
@@ -17682,7 +17682,7 @@ devine	deveni	Vmip3s
 parte	parte	Ncfsrn
 componentă	component	Afpfsrn
 a	al	Tsfs
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 în	în	Spsa
 curs	curs	Ncms-n
 de	de	Spsa
@@ -17706,7 +17706,7 @@ cu	cu	Spsa
 tubii	(0.57)tubie	Ncfp-n
 colectori	colector	Afpmp-n
 (	(	LPAR
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 funcționali	funcțional	Afpmp-n
 )	)	RPAR
 sau	sau	Ccssp
@@ -17714,7 +17714,7 @@ o	el	Pp3fsa--------w
 pot	putea	Vmip3p
 pierde	pierde	Vmnp
 (	(	LPAR
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 izolați	izolat	Afpmp-n
 ,	,	COMMA
 prin	prin	Spsa
@@ -17732,7 +17732,7 @@ membranei	membrană	Ncfsoy
 bazale	bazal	Afpfson
 delimitante	(0.75)delimitant	Afpfson
 a	al	Tsfs
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 și	și	Crssp
 expansiunea	expansiune	Ncfsry
 masivă	masiv	Afpfsrn
@@ -17773,7 +17773,7 @@ celulelor	celulă	Ncfpoy
 epiteliale	epitelial	Afpfp-n
 din	din	Spsa
 interiorul	interior	Ncmsry
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 sunt	fi	Vmip3p
 ,	,	COMMA
 cu	cu	Spsa
@@ -17892,7 +17892,7 @@ de	de	Spsa
 fluid	fluid	Ncms-n
 la	la	Spsa
 nivelul	nivel	Ncmsry
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 se	sine	Px3--a--------w
 realizează	realiza	Vmip3
 prin	prin	Spsa
@@ -18043,7 +18043,7 @@ creșterii	creștere	Ncfsoy
 de	de	Spsa
 volum	volum	Ncms-n
 a	al	Tsfs
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 ,	,	COMMA
 rinichii	rinichi	Ncmpry
 sunt	fi	Vmip3p
@@ -18073,7 +18073,7 @@ de	de	Spsa
 inițiere	inițiere	Ncfsrn
 a	al	Tsfs
 formării	formare	Ncfsoy
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 este	fi	Vmip3s
 similar	similar	Afpms-n
 unui	un	Timso
@@ -18158,13 +18158,13 @@ pielonefrita	pielonefrită	Ncfsry
 acută	acut	Afpfsrn
 și	și	Crssp
 infecția	infecție	Ncfsry
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 .	.	PERIOD
 
 Deoarece	deoarece	Csssp
 în	în	Spsa
 majoritatea	majoritate	Ncfsry
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 antibioticul	antibiotic	Ncmsry
 difuzează	difuza	Vmip3
 transmembranar	(WF)transmembranar	Afpms-n
@@ -18200,7 +18200,7 @@ staza	stază	Ncfsry
 urinară	urinar	Afpfsrn
 produsă	produce	Vmp--sf
 de	de	Spsa
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 ,	,	COMMA
 la	la	Spsa
 care	care	Pw3--r
@@ -18324,7 +18324,7 @@ exemplu	exemplu	Ncms-n
 ,	,	COMMA
 creșterea	creștere	Ncfsry
 dimensiunii	dimensiune	Ncfsoy
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 )	)	RPAR
 va	vrea	Va--3s
 determina	determina	Vmnp
@@ -18426,7 +18426,7 @@ cu	cu	Spsa
 număr	număr	Ncms-n
 mare	mare	Afpms-n
 de	de	Spsa
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 care	care	Pw3--r
 nu	nu	Qz
 dezvoltă	dezvolta	Vmis3s
@@ -18515,7 +18515,7 @@ evoluează	evolua	Vmip3
 spre	spre	Spsa
 formarea	formare	Ncfsry
 de	de	Spsa
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 ,	,	COMMA
 ipoteză	ipoteză	Ncfsrn
 ce	ce	Pw3--r
@@ -18573,7 +18573,7 @@ Analiza	analiză	Ncfsry
 compoziției	compoziție	Ncfsoy
 lichidului	lichid	Ncmsoy
 din	din	Spsa
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 arată	arăta	Vmip3
 că	că	Csssp
 este	fi	Vmip3s
@@ -18602,7 +18602,7 @@ sunt	fi	Vmip3p
 complicații	complicație	Ncfp-n
 rare	rar	Afpfp-n
 ale	al	Tsfp
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 hepatici	hepatic	Afpmp-n
 în	în	Spsa
 ADPKD	ADPKD	Np
@@ -18625,7 +18625,7 @@ să	să	Qs
 crească	crește	Vmsp3
 frecvența	frecvență	Ncfsry
 complicațiilor	complicație	Ncfpoy
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 hepatici	hepatic	Afpmp-n
 .	.	PERIOD
 
@@ -18647,7 +18647,7 @@ aspartataminotransferazei	(0.71)aspartataminotransferază	Ncfsoy
 Mărirea	mărire	Ncfsry
 ficatului	ficat	Ncmsoy
 prin	prin	Spsa
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 numeroși	numeros	Afpmp-n
 și	și	Crssp
 /	/	SLASH
@@ -18745,7 +18745,7 @@ ascitei	ascită	Ncfsoy
 .	.	PERIOD
 
 Decomprimarea	decomprimare	Ncfsry
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 se	sine	Px3--a--------w
 poate	putea	Vmip3s
 realiza	realiza	Vmnp
@@ -18996,7 +18996,7 @@ vârstnici	vârstnic	Afpmp-n
 care	care	Pw3--r
 pot	putea	Vmip3p
 avea	avea	Vmnp
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 simpli	simplu	Afpmp-n
 multipli	multiplu	Afpmp-n
 )	)	RPAR
@@ -19112,7 +19112,7 @@ magnetică	magnetic	Afpfsrn
 nucleară	nuclear	Afpfsrn
 poate	putea	Vmip3s
 detecta	detecta	Vmnp
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 cu	cu	Spsa
 dimensiuni	dimensiune	Ncfp-n
 foarte	foarte	Rp
@@ -19165,7 +19165,7 @@ perirenale	(0.89)perirenal	Afpfp-n
 ca	ca	Rc
 și	și	Crssp
 prezența	prezență	Ncfsry
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 în	în	Spsa
 alte	alt	Di3fpr---e
 organe	organ	Ncfp-n
@@ -19188,7 +19188,7 @@ CT	CT	Np
 Diagnosticul	diagnostic	Ncmsry
 diferențial	diferențial	Afpms-n
 al	al	Tsms
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 simpli	simplu	Afpmp-n
 cu	cu	Spsa
 ADPKD	ADPKD	Np
@@ -19200,14 +19200,14 @@ la	la	Spsa
 pacienții	pacient	Ncmpry
 tineri	tânăr	Afpmp-n
 cu	cu	Spsa
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 puțini	puțin	Di3mp
 sau	sau	Ccssp
 la	la	Spsa
 pacienții	pacient	Ncmpry
 vârstnici	vârstnic	Afpmp-n
 cu	cu	Spsa
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 simpli	simplu	Afpmp-n
 multipli	multiplu	Afpmp-n
 .	.	PERIOD
@@ -19271,7 +19271,7 @@ ecogenitate	ecogenitate	Ncfsrn
 crescută	crescut	Afpfsrn
 ,	,	COMMA
 mici	mic	Afp-p-n
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 și	și	Crssp
 căi	cale	Ncfp-n
 biliare	biliar	Afpfson
@@ -19345,7 +19345,7 @@ renală	renal	Afpfsrn
 produsă	produce	Vmp--sf
 de	de	Spsa
 mărirea	mărire	Ncfsry
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 (	(	LPAR
 15	15	Mc
 )	)	RPAR
@@ -19360,7 +19360,7 @@ structurale	structural	Afpfp-n
 (	(	LPAR
 numărul	număr	Ncmsry
 de	de	Spsa
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 ,	,	COMMA
 implicarea	implicare	Ncfsry
 bilaterală	bilateral	Afpfsrn
@@ -19397,7 +19397,7 @@ rinichilor	rinichi	Ncmpoy
 cu	cu	Spsa
 sau	sau	Ccssp
 fără	fără	Spsa
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 .	.	PERIOD
 
 Cel	cel	Tdmsr
@@ -19520,7 +19520,7 @@ Totuși	totuși	Rgp
 ,	,	COMMA
 prezența	prezență	Ncfsry
 de	de	Spsa
-chiști	(0.56)chist	Ncmp-n
+chiști	chist	Ncmp-n
 macroscopici	macroscopic	Afpmp-n
 bilaterali	bilateral	Afpmp-n
 cu	cu	Spsa
@@ -19650,7 +19650,7 @@ hipoproteică	(0.89)hipoproteic	Afpfsrn
 a	avea	Va--3s
 întârziat	întârzia	Vmp--sm
 dezvoltarea	dezvoltare	Ncfsry
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 și	și	Crssp
 progresia	progresie	Ncfsry
 spre	spre	Spsa
@@ -19815,7 +19815,7 @@ până	până	Csssp
 la	la	Spsa
 momentul	moment	Ncmsry
 evidențierii	evidențiere	Ncfsoy
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 .	.	PERIOD
 
 Cert	cert	Rgp
@@ -19895,7 +19895,7 @@ viteza	viteză	Ncfsry
 de	de	Spsa
 dezvoltare	dezvoltare	Ncfsrn
 a	al	Tsfs
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 .	.	PERIOD
 
 Un	un	Timsr
@@ -19906,7 +19906,7 @@ implicat	implica	Vmp--sm
 în	în	Spsa
 creșterea	creștere	Ncfsry
 volumului	volum	Ncmsoy
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 este	fi	Vmip3s
 acumularea	acumulare	Ncfsry
 de	de	Spsa
@@ -19940,7 +19940,7 @@ nivel	nivel	Ncms-n
 
 Modularea	modulare	Ncfsry
 formării	formare	Ncfsoy
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 în	în	Spsa
 modelele	model	Ncfpry
 de	de	Spsa
@@ -20140,7 +20140,7 @@ sau	sau	Ccssp
 incizia	incizie	Ncfsry
 multiplă	multiplu	Afpfsrn
 a	al	Tsfs
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 prin	prin	Spsa
 microlaparoscopie	microlaparoscopie	Ncfsrn
 .	.	PERIOD
@@ -20189,7 +20189,7 @@ datorită	datorită	Spsd
 faptului	fapt	Ncmsoy
 că	că	Csssp
 mărirea	mărire	Ncfsry
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 determină	determina	Vmis3s
 atrofia	atrofie	Ncfsry
 parenchimului	parenchim	Ncmsoy
@@ -20207,7 +20207,7 @@ este	fi	Vaip3s
 produsă	produce	Vmp--sf
 de	de	Spsa
 presiunea	presiune	Ncfsry
-chiștilor	(0.56)chist	Ncmpoy
+chiștilor	chist	Ncmpoy
 asupra	asupra	Spsg
 parenchimului	parenchim	Ncmsoy
 normal	normal	Afpms-n
@@ -26769,7 +26769,7 @@ că	că	Csssp
 ar	avea	Va--3
 favoriza	favoriza	Vmnp
 complicațiile	complicație	Ncfpry
-macroangiopatice	(0.89)macroangiopatic	Afpfp-n
+macroangiopatice	macroangiopatic	Afpfp-n
 .	.	PERIOD
 
 Ea	el	Pp3fsr--------s
@@ -46949,7 +46949,7 @@ adeziunea	adeziune	Ncfsry
 celulară	celular	Afpfsrn
 mediată	media	Vmp--sf
 de	de	Spsa
-integrine	(0.7)integrină	Ncfp-n
+integrine	integrină	Ncfp-n
 ,	,	COMMA
 etc.	etc.	Yn
 [	[	LSQR
@@ -47389,7 +47389,7 @@ clearance	clearance	Np
 din	din	Spsa
 circulație	circulație	Ncfsrn
 al	al	Tsms
-lipoproteinelor	(0.71)lipoproteină	Ncfpoy
+lipoproteinelor	lipoproteină	Ncfpoy
 bogate	bogat	Afpfp-n
 în	în	Spsa
 trigliceride	trigliceridă	Ncfp-n
@@ -47413,7 +47413,7 @@ cât	cât	Rw
 și	și	Crssp
 în	în	Spsa
 metabolizarea	metabolizare	Ncfsry
-lipoproteinelor	(0.71)lipoproteină	Ncfpoy
+lipoproteinelor	lipoproteină	Ncfpoy
 plasmatice	plasmatic	Afpfp-n
 ,	,	COMMA
 apoproteinele	(0.67)apoproteină	Ncfpry
@@ -51092,7 +51092,7 @@ aceste	acest	Dd3fpr---e
 modificări	modificare	Ncfp-n
 structurale	structural	Afpfp-n
 ale	al	Tsfp
-lipoproteinelor	(0.71)lipoproteină	Ncfpoy
+lipoproteinelor	lipoproteină	Ncfpoy
 .	.	PERIOD
 
 Recent	recent	Rgp
@@ -52902,7 +52902,7 @@ scăderea	scădere	Ncfsry
 HDL-colesterolului	HDL-colesterolului	Np
 și	și	Crssp
 creșterea	creștere	Ncfsry
-lipoproteinei	(0.71)lipoproteină	Ncfsoy
+lipoproteinei	lipoproteină	Ncfsoy
 Lp	Lp	Np
 (	(	LPAR
 a	a	Nc
@@ -58279,7 +58279,7 @@ Cantitativ	cantitativ	Afpms-n
 apoproteinele	(0.67)apoproteină	Ncfpry
 din	din	Spsa
 structura	structură	Ncfsry
-lipoproteinelor	(0.71)lipoproteină	Ncfpoy
+lipoproteinelor	lipoproteină	Ncfpoy
 însumeză	însumeză	Ncfsrn
 ceva	ceva	Pi3-sr
 mai	mai	Rp
