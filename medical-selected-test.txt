@@ -51348,7 +51348,7 @@ arteriolară	arteriolar	Afpfsrn
 precum	precum	Rw
 și	și	Crssp
 echilibrul	echilibru	Ncmsry
-coagulare-fibrinoliză	coagulare-fibrinoliză	
+coagulare-fibrinoliză	coagulare-fibrinoliză	Ncfsrn
 (	(	LPAR
 prin	prin	Spsa
 reglarea	reglare	Ncfsry
@@ -57353,7 +57353,7 @@ Latent	latent	X
 Autoimmune	Autoimmune	X
 Diabetes	Diabetes	X
 in	in	X
-Adults	X
+Adults	Adults	X
 "	"	DBLQ
 )	)	RPAR
 a	avea	Va--3s
@@ -57383,7 +57383,7 @@ dar	dar	Ccssp
 la	la	Spsa
 care	care	Pw3--r
 funcția	funcție	Ncfsry
-&b.beta;-celulară	&b.beta;-celular	X
+&b.beta;-celulară	&b.beta;-celular	Afpfsrn
 este	fi	Vmip3s
 prezervată	prezervat	Afpfsrn
 mulți	mult	Di3mp
